@@ -498,791 +498,1384 @@
 
         "Intermedio":[
             
-  {
-    "pregunta": "¿Cuál es la diferencia entre memoria volátil y no volátil?",
+  {"pregunta": "¿Cuál es la diferencia entre memoria volátil y no volátil?",
     "opciones": ["A) El precio", "B) La velocidad", "C) La retención de datos sin energía", "D) El tamaño"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué es el FSB (Front Side Bus)?",
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué es el FSB (Front Side Bus)?",
     "opciones": ["A) Un tipo de memoria", "B) El bus que conecta CPU con memoria y chipset", "C) Un protocolo de red", "D) Un tipo de disco"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre DDR3 y DDR4?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre DDR3 y DDR4?",
     "opciones": ["A) DDR4 es más rápida y eficiente", "B) DDR3 es más moderna", "C) No hay diferencia", "D) DDR4 es más barata"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el multiplexado en buses de datos?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el multiplexado en buses de datos?",
     "opciones": ["A) Duplicar datos", "B) Compartir líneas para diferentes señales", "C) Acelerar datos", "D) Comprimir datos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función del controlador de memoria?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función del controlador de memoria?",
     "opciones": ["A) Almacenar datos", "B) Gestionar el acceso a la memoria RAM", "C) Procesar gráficos", "D) Controlar disco duro"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué significa RAID y cuál es su propósito?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué significa RAID y cuál es su propósito?",
     "opciones": ["A) Rapid Access In Disks - velocidad", "B) Redundant Array of Independent Disks - redundancia/rendimiento", "C) Random Access In Data - acceso aleatorio", "D) Reliable Access In Drives - confiabilidad"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre caché L1, L2 y L3?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre caché L1, L2 y L3?",
     "opciones": ["A) El precio", "B) La velocidad y proximidad al procesador", "C) El tamaño físico", "D) La marca"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el thermal throttling?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el thermal throttling?",
     "opciones": ["A) Acelerar el procesador", "B) Reducir rendimiento por temperatura", "C) Limpiar el procesador", "D) Cambiar ventilador"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre SATA y NVMe?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre SATA y NVMe?",
     "opciones": ["A) SATA es más moderno", "B) NVMe es más rápido y usa PCIe", "C) No hay diferencia", "D) SATA es más caro"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el TDP (Thermal Design Power)?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el TDP (Thermal Design Power)?",
     "opciones": ["A) Temperatura máxima", "B) Potencia térmica de diseño", "C) Velocidad del procesador", "D) Tamaño del procesador"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función del northbridge y southbridge?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función del northbridge y southbridge?",
     "opciones": ["A) Controlar red", "B) Northbridge: CPU/RAM/GPU, Southbridge: I/O", "C) Controlar sonido", "D) Gestionar energía"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es la arquitectura Von Neumann?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es la arquitectura Von Neumann?",
     "opciones": ["A) Un tipo de procesador", "B) Arquitectura donde programa y datos comparten memoria", "C) Un protocolo de red", "D) Un tipo de memoria"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre interrupciones por hardware y software?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre interrupciones por hardware y software?",
     "opciones": ["A) El precio", "B) Hardware es externo, software es interno", "C) La velocidad", "D) El tamaño"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el factor de forma en placas base?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el factor de forma en placas base?",
     "opciones": ["A) El color", "B) Las dimensiones y diseño físico", "C) La velocidad", "D) El precio"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre memoria ECC y no-ECC?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre memoria ECC y no-ECC?",
     "opciones": ["A) ECC detecta y corrige errores", "B) ECC es más barata", "C) No hay diferencia", "D) ECC es más lenta"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el bus PCIe y cuáles son sus versiones?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el bus PCIe y cuáles son sus versiones?",
     "opciones": ["A) Un tipo de memoria", "B) Bus de expansión con versiones 1.0 a 5.0", "C) Un protocolo de red", "D) Un tipo de disco"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función del IMC (Integrated Memory Controller)?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función del IMC (Integrated Memory Controller)?",
     "opciones": ["A) Controlar gráficos", "B) Controlar acceso a memoria desde CPU", "C) Controlar sonido", "D) Controlar red"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el hyperthreading?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el hyperthreading?",
     "opciones": ["A) Múltiples procesadores", "B) Tecnología que simula núcleos adicionales", "C) Memoria más rápida", "D) Refrigeración mejorada"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre memoria dual channel y single channel?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre memoria dual channel y single channel?",
     "opciones": ["A) Dual channel ofrece mayor ancho de banda", "B) Single channel es más rápido", "C) No hay diferencia", "D) Dual channel es más barato"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el VRM (Voltage Regulator Module)?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el VRM (Voltage Regulator Module)?",
     "opciones": ["A) Un tipo de memoria", "B) Circuito que regula voltaje al procesador", "C) Un protocolo", "D) Un tipo de disco"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función de los condensadores en una placa base?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función de los condensadores en una placa base?",
     "opciones": ["A) Procesar datos", "B) Estabilizar corriente eléctrica", "C) Almacenar datos", "D) Generar calor"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el UEFI y cómo se diferencia del BIOS?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el UEFI y cómo se diferencia del BIOS?",
     "opciones": ["A) Son idénticos", "B) UEFI es más moderno con interfaz gráfica", "C) BIOS es más rápido", "D) UEFI es más barato"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre procesadores RISC y CISC?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre procesadores RISC y CISC?",
     "opciones": ["A) RISC: instrucciones simples, CISC: instrucciones complejas", "B) RISC es más barato", "C) CISC es más moderno", "D) No hay diferencia"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el CAS latency en memoria RAM?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el CAS latency en memoria RAM?",
     "opciones": ["A) Velocidad máxima", "B) Tiempo de acceso a columna", "C) Tamaño de memoria", "D) Tipo de memoria"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función del DMA (Direct Memory Access)?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función del DMA (Direct Memory Access)?",
     "opciones": ["A) Acceso directo sin CPU", "B) Memoria más rápida", "C) Procesamiento gráfico", "D) Control de red"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es la tecnología SLI/CrossFire?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es la tecnología SLI/CrossFire?",
     "opciones": ["A) Tipo de memoria", "B) Usar múltiples tarjetas gráficas", "C) Protocolo de red", "D) Tipo de disco"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre procesadores de 14nm y 7nm?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre procesadores de 14nm y 7nm?",
     "opciones": ["A) 7nm es más eficiente y rápido", "B) 14nm es más moderno", "C) No hay diferencia", "D) 14nm es más barato"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el buffer overflow en el contexto de hardware?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el buffer overflow en el contexto de hardware?",
     "opciones": ["A) Memoria llena", "B) Desbordamiento de búfer de datos", "C) Disco lleno", "D) Procesador lento"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función del cristal de cuarzo en una placa base?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función del cristal de cuarzo en una placa base?",
     "opciones": ["A) Decoración", "B) Generar señal de reloj", "C) Refrigeración", "D) Almacenamiento"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el SPD (Serial Presence Detect) en memoria RAM?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el SPD (Serial Presence Detect) en memoria RAM?",
     "opciones": ["A) Velocidad de memoria", "B) Chip con información de configuración", "C) Tipo de memoria", "D) Protocolo de datos"],
-    "respuesta_correcta": "B"
-  }
-
-
+    "respuesta_correcta": "B"}
     ],
 
     "Avanzado":[
-        {
-    "pregunta": "¿Qué es el pipeline en la arquitectura de procesadores?",
+    {"pregunta": "¿Qué es el pipeline en la arquitectura de procesadores?",
     "opciones": ["A) Un tipo de memoria", "B) Una técnica de paralelización de instrucciones", "C) Un protocolo de red", "D) Un tipo de bus"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre coherencia de caché y consistencia de memoria?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre coherencia de caché y consistencia de memoria?",
     "opciones": ["A) Son sinónimos", "B) Coherencia es sobre cachés, consistencia sobre orden de operaciones", "C) Coherencia es más rápida", "D) Consistencia es obsoleta"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es la predicción de saltos en procesadores?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es la predicción de saltos en procesadores?",
     "opciones": ["A) Predecir errores", "B) Anticipar direcciones de salto condicional", "C) Predecir temperatura", "D) Predecir consumo"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función de los registros de propósito especial?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función de los registros de propósito especial?",
     "opciones": ["A) Almacenar datos temporales", "B) Controlar estado y configuración del procesador", "C) Almacenar programas", "D) Conectar periféricos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el fenómeno de aliasing en conversión A/D?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el fenómeno de aliasing en conversión A/D?",
     "opciones": ["A) Mejora de calidad", "B) Distorsión por frecuencia de muestreo insuficiente", "C) Tipo de memoria", "D) Protocolo de datos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre arquitectura superescalar y VLIW?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre arquitectura superescalar y VLIW?",
     "opciones": ["A) Superescalar: hardware dinámico, VLIW: compilador estático", "B) VLIW es más rápido", "C) Superescalar es obsoleto", "D) No hay diferencia"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el problema del hazard en pipelines?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el problema del hazard en pipelines?",
     "opciones": ["A) Sobrecalentamiento", "B) Conflictos entre instrucciones que afectan rendimiento", "C) Falta de memoria", "D) Error de software"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función de la unidad de gestión de memoria (MMU)?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función de la unidad de gestión de memoria (MMU)?",
     "opciones": ["A) Gestionar disco duro", "B) Traducir direcciones virtuales a físicas", "C) Controlar red", "D) Procesar gráficos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el protocolo MESI en coherencia de caché?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el protocolo MESI en coherencia de caché?",
     "opciones": ["A) Un tipo de memoria", "B) Protocolo de estados: Modified, Exclusive, Shared, Invalid", "C) Un bus de datos", "D) Un tipo de procesador"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre memoria asociativa y directa en caché?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre memoria asociativa y directa en caché?",
     "opciones": ["A) Asociativa permite ubicación flexible, directa ubicación fija", "B) Directa es más rápida", "C) Asociativa es más barata", "D) No hay diferencia"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es la tecnología de branch prediction tournament?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es la tecnología de branch prediction tournament?",
     "opciones": ["A) Competencia de procesadores", "B) Combinar múltiples predictores de salto", "C) Tipo de memoria", "D) Protocolo de red"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función del TLB (Translation Lookaside Buffer)?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función del TLB (Translation Lookaside Buffer)?",
     "opciones": ["A) Almacenar datos", "B) Caché de traducciones de direcciones virtuales", "C) Controlar interrupciones", "D) Gestionar E/S"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el fenómeno de write-back vs write-through en caché?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es el fenómeno de write-back vs write-through en caché?",
     "opciones": ["A) Write-back: escribe inmediatamente, write-through: escribe después", "B) Write-back: escribe después, write-through: escribe inmediatamente", "C) Son idénticos", "D) Write-back es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre interrupciones vectorizadas y no vectorizadas?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre interrupciones vectorizadas y no vectorizadas?",
     "opciones": ["A) Vectorizadas proporcionan dirección directa del manejador", "B) No vectorizadas son más rápidas", "C) Vectorizadas son obsoletas", "D) No hay diferencia"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el speculative execution en procesadores modernos?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el speculative execution en procesadores modernos?",
     "opciones": ["A) Ejecución lenta", "B) Ejecutar instrucciones antes de saber si son necesarias", "C) Ejecución segura", "D) Ejecución paralela"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función de los registros de barrera de memoria?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función de los registros de barrera de memoria?",
     "opciones": ["A) Acelerar memoria", "B) Controlar orden de accesos a memoria", "C) Aumentar capacidad", "D) Reducir latencia"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es la tecnología de clustered VLIW?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es la tecnología de clustered VLIW?",
     "opciones": ["A) Agrupar unidades funcionales en clusters", "B) Tipo de memoria", "C) Protocolo de red", "D) Tipo de bus"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre coherencia débil y fuerte?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre coherencia débil y fuerte?",
     "opciones": ["A) Fuerte: orden estricto, débil: orden relajado", "B) Débil es más rápida", "C) Fuerte es obsoleta", "D) No hay diferencia"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el problema de false sharing en sistemas multiprocesador?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el problema de false sharing en sistemas multiprocesador?",
     "opciones": ["A) Compartir datos falsos", "B) Diferentes procesadores acceden a la misma línea de caché", "C) Compartir memoria", "D) Error de software"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función de los buffers de reordenamiento?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función de los buffers de reordenamiento?",
     "opciones": ["A) Ordenar datos", "B) Permitir ejecución fuera de orden manteniendo semántica", "C) Organizar archivos", "D) Controlar red"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es la tecnología de register renaming?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es la tecnología de register renaming?",
     "opciones": ["A) Cambiar nombres de variables", "B) Mapear registros lógicos a físicos para evitar dependencias", "C) Renombrar archivos", "D) Cambiar configuración"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre NUMA y UMA en arquitecturas multiprocesador?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre NUMA y UMA en arquitecturas multiprocesador?",
     "opciones": ["A) NUMA: acceso no uniforme, UMA: acceso uniforme", "B) UMA es más moderna", "C) NUMA es más barata", "D) No hay diferencia"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el fenómeno de thrashing en memoria virtual?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el fenómeno de thrashing en memoria virtual?",
     "opciones": ["A) Memoria muy rápida", "B) Intercambio excesivo entre memoria y disco", "C) Memoria llena", "D) Error de hardware"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función de los scoreboard en procesadores?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la función de los scoreboard en procesadores?",
     "opciones": ["A) Llevar puntuación", "B) Rastrear estado de instrucciones en ejecución", "C) Controlar temperatura", "D) Gestionar memoria"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es la tecnología de load-store architecture?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es la tecnología de load-store architecture?",
     "opciones": ["A) Arquitectura de almacenamiento", "B) Solo load/store acceden a memoria, otros operan en registros", "C) Arquitectura de carga", "D) Tipo de memoria"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre invalidación y actualización en protocolos de coherencia?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre invalidación y actualización en protocolos de coherencia?",
     "opciones": ["A) Invalidación marca como inválido, actualización sincroniza", "B) Actualización es más lenta", "C) Invalidación es obsoleta", "D) No hay diferencia"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué es el fenómeno de write allocate vs no-write allocate?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Qué es el fenómeno de write allocate vs no-write allocate?",
     "opciones": ["A) Write allocate trae línea a caché en escritura, no-write allocate no", "B) Write allocate es más lento", "C) No-write allocate es obsoleto", "D) Son idénticos"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Cuál es la función de las unidades de reserva en procesadores superescalares?",
+    "respuesta_correcta": "A"},
+  
+    {"pregunta": "¿Cuál es la función de las unidades de reserva en procesadores superescalares?",
     "opciones": ["A) Reservar memoria", "B) Mantener instrucciones esperando operandos", "C) Reservar espacio", "D) Controlar interrupciones"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es la tecnología de tomasulo algorithm?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Qué es la tecnología de tomasulo algorithm?",
     "opciones": ["A) Algoritmo de ordenamiento", "B) Algoritmo para ejecución fuera de orden con register renaming", "C) Algoritmo de búsqueda", "D) Algoritmo de encriptación"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre snooping y directory-based coherence?",
+    "respuesta_correcta": "B"},
+  
+    {"pregunta": "¿Cuál es la diferencia entre snooping y directory-based coherence?",
     "opciones": ["A) Snooping: monitoreo de bus, directory: información centralizada", "B) Directory es más lento", "C) Snooping es obsoleto", "D) No hay diferencia"],
-    "respuesta_correcta": "A"
-  }
-
+    "respuesta_correcta": "A"}
     ]
     },
 
     "MOP-Python":{
       "nombre": "MOP_Python",
       "basico":[
-  {
-    "pregunta": "¿Cuál es la extensión de archivo estándar para scripts de Python?",
+  {"pregunta": "¿Cuál es la extensión de archivo estándar para scripts de Python?",
     "opciones": ["A) .python", "B) .py", "C) .pt", "D) .script"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué función se utiliza para mostrar texto en pantalla?",
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Qué función se utiliza para mostrar texto en pantalla?",
     "opciones": ["A) show()", "B) display()", "C) print()", "D) output()"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Cuál es la sintaxis correcta para comentarios de una línea en Python?",
+    "respuesta_correcta": "C"},
+  
+  {"pregunta": "¿Cuál es la sintaxis correcta para comentarios de una línea en Python?",
     "opciones": ["A) // comentario", "B) /* comentario */", "C) # comentario", "D) -- comentario"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué función se utiliza para leer entrada del usuario?",
+    "respuesta_correcta": "C"},
+  
+  {"pregunta": "¿Qué función se utiliza para leer entrada del usuario?",
     "opciones": ["A) read()", "B) input()", "C) get()", "D) scan()"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es el resultado de 10 // 3 en Python?",
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Cuál es el resultado de 10 // 3 en Python?",
     "opciones": ["A) 3.33", "B) 3", "C) 4", "D) 3.0"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué tipo de dato es True en Python?",
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Qué tipo de dato es True en Python?",
     "opciones": ["A) String", "B) Integer", "C) Boolean", "D) Float"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Cuál es la sintaxis correcta para crear una lista vacía?",
+    "respuesta_correcta": "C"},
+  
+  {"pregunta": "¿Cuál es la sintaxis correcta para crear una lista vacía?",
     "opciones": ["A) lista = {}", "B) lista = []", "C) lista = ()", "D) lista = <>"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué operador se utiliza para concatenar strings?",
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Qué operador se utiliza para concatenar strings?",
     "opciones": ["A) &", "B) +", "C) *", "D) ."],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función para obtener la longitud de una lista?",
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Cuál es la función para obtener la longitud de una lista?",
     "opciones": ["A) size()", "B) length()", "C) len()", "D) count()"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué palabra clave se utiliza para definir una función?",
+    "respuesta_correcta": "C"},
+  
+  {"pregunta": "¿Qué palabra clave se utiliza para definir una función?",
     "opciones": ["A) function", "B) def", "C) define", "D) func"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la indentación estándar en Python?",
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Cuál es la indentación estándar en Python?",
     "opciones": ["A) 2 espacios", "B) 4 espacios", "C) 8 espacios", "D) 1 tab"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué estructura de control se utiliza para repetir código?",
+    "respuesta_correcta": "B"},
+ 
+  {"pregunta": "¿Qué estructura de control se utiliza para repetir código?",
     "opciones": ["A) if", "B) while", "C) switch", "D) case"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la forma correcta de acceder al primer elemento de una lista?",
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Cuál es la forma correcta de acceder al primer elemento de una lista?",
     "opciones": ["A) lista[1]", "B) lista[0]", "C) lista.first()", "D) lista.get(0)"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué función convierte un string a entero?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué función convierte un string a entero?",
     "opciones": ["A) str()", "B) int()", "C) float()", "D) convert()"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la palabra clave para crear una condición?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para crear una condición?",
     "opciones": ["A) if", "B) condition", "C) check", "D) when"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué símbolo se utiliza para crear un diccionario?",
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué símbolo se utiliza para crear un diccionario?",
     "opciones": ["A) []", "B) ()", "C) {}", "D) <>"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Cuál es el resultado de 'Hola' * 3?",
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es el resultado de 'Hola' * 3?",
     "opciones": ["A) HolaHolaHola", "B) Hola3", "C) Error", "D) Hola Hola Hola"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Qué operador se utiliza para comparar igualdad?",
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué operador se utiliza para comparar igualdad?",
     "opciones": ["A) =", "B) ==", "C) ===", "D) eq"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la forma correcta de crear una tupla?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la forma correcta de crear una tupla?",
     "opciones": ["A) tupla = []", "B) tupla = {}", "C) tupla = ()", "D) tupla = <>"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué palabra clave se utiliza para salir de un bucle?",
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué palabra clave se utiliza para salir de un bucle?",
     "opciones": ["A) exit", "B) break", "C) stop", "D) end"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la función para obtener el tipo de una variable?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función para obtener el tipo de una variable?",
     "opciones": ["A) typeof()", "B) type()", "C) gettype()", "D) class()"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué método se utiliza para añadir un elemento al final de una lista?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué método se utiliza para añadir un elemento al final de una lista?",
     "opciones": ["A) add()", "B) insert()", "C) append()", "D) push()"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Cuál es la palabra clave para manejar excepciones?",
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la palabra clave para manejar excepciones?",
     "opciones": ["A) catch", "B) except", "C) error", "D) handle"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué función se utiliza para ordenar una lista?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué función se utiliza para ordenar una lista?",
     "opciones": ["A) order()", "B) sort()", "C) arrange()", "D) organize()"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es el operador para potencia en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es el operador para potencia en Python?",
     "opciones": ["A) ^", "B) **", "C) pow", "D) *"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué palabra clave se utiliza para importar módulos?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué palabra clave se utiliza para importar módulos?",
     "opciones": ["A) include", "B) require", "C) import", "D) load"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Cuál es el método para eliminar un elemento de una lista por índice?",
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es el método para eliminar un elemento de una lista por índice?",
     "opciones": ["A) remove()", "B) delete()", "C) pop()", "D) clear()"],
-    "respuesta_correcta": "C"
-  },
-  {
-    "pregunta": "¿Qué función devuelve un rango de números?",
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué función devuelve un rango de números?",
     "opciones": ["A) range()", "B) sequence()", "C) numbers()", "D) count()"],
-    "respuesta_correcta": "A"
-  },
-  {
-    "pregunta": "¿Cuál es la palabra clave para continuar con la siguiente iteración de un bucle?",
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la palabra clave para continuar con la siguiente iteración de un bucle?",
     "opciones": ["A) next", "B) continue", "C) skip", "D) pass"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué método convierte todos los caracteres de un string a minúsculas?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué método convierte todos los caracteres de un string a minúsculas?",
     "opciones": ["A) lowercase()", "B) lower()", "C) tolower()", "D) small()"],
     "respuesta_correcta": "B"
   }
 ],
 
 "Intermedio": [
-  {
-    "pregunta": "¿Cuál es la diferencia entre '==' y 'is' en Python?",
+  {"pregunta": "¿Cuál es la diferencia entre '==' y 'is' en Python?",
     "opciones": ["A) No hay diferencia", "B) '==' compara valores, 'is' compara identidad", "C) 'is' es más rápido", "D) '==' es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es una list comprehension?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una list comprehension?",
     "opciones": ["A) Un tipo de lista", "B) Una forma concisa de crear listas", "C) Una función para listas", "D) Un método de lista"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'append()' y 'extend()' en listas?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'append()' y 'extend()' en listas?",
     "opciones": ["A) No hay diferencia", "B) append() añade un elemento, extend() añade múltiples", "C) extend() es más rápido", "D) append() es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el operador '*' antes de una lista en una función?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el operador '*' antes de una lista en una función?",
     "opciones": ["A) Multiplica la lista", "B) Desempaqueta la lista como argumentos", "C) Crea una copia", "D) Ordena la lista"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre parámetros por defecto mutables e inmutables?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre parámetros por defecto mutables e inmutables?",
     "opciones": ["A) No hay diferencia", "B) Los mutables pueden causar efectos secundarios", "C) Los inmutables son más rápidos", "D) Los mutables son obsoletos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es un generador en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un generador en Python?",
     "opciones": ["A) Una función especial", "B) Un objeto que produce valores bajo demanda", "C) Un tipo de lista", "D) Un módulo"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'global' y 'nonlocal'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'global' y 'nonlocal'?",
     "opciones": ["A) No hay diferencia", "B) global: variable global, nonlocal: variable de función externa", "C) nonlocal es más rápido", "D) global es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el método 'join()' en strings?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el método 'join()' en strings?",
     "opciones": ["A) Separa strings", "B) Une elementos de una secuencia con un separador", "C) Duplica strings", "D) Busca en strings"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre '__str__' y '__repr__'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre '__str__' y '__repr__'?",
     "opciones": ["A) No hay diferencia", "B) __str__ para usuarios, __repr__ para desarrolladores", "C) __repr__ es más rápido", "D) __str__ es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el 'slicing' en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'slicing' en Python?",
     "opciones": ["A) Cortar código", "B) Extraer partes de secuencias", "C) Dividir funciones", "D) Separar módulos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'deepcopy' y 'copy'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'deepcopy' y 'copy'?",
     "opciones": ["A) No hay diferencia", "B) deepcopy copia recursivamente, copy solo la superficie", "C) copy es más rápido", "D) deepcopy es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace la palabra clave 'yield'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace la palabra clave 'yield'?",
     "opciones": ["A) Detiene la función", "B) Convierte una función en generador", "C) Devuelve un valor", "D) Pausa la ejecución"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'remove()' y 'pop()' en listas?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'remove()' y 'pop()' en listas?",
     "opciones": ["A) No hay diferencia", "B) remove() por valor, pop() por índice", "C) pop() es más rápido", "D) remove() es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es un decorator en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un decorator en Python?",
     "opciones": ["A) Una función especial", "B) Una función que modifica otra función", "C) Un tipo de clase", "D) Un módulo"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'sort()' y 'sorted()'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'sort()' y 'sorted()'?",
     "opciones": ["A) No hay diferencia", "B) sort() modifica la lista, sorted() devuelve nueva lista", "C) sorted() es más rápido", "D) sort() es obsoleto"],
     "respuesta_correcta": "B"
   },
-  {
-    "pregunta": "¿Qué hace el método 'enumerate()'?",
+
+  {"pregunta": "¿Qué hace el método 'enumerate()'?",
     "opciones": ["A) Cuenta elementos", "B) Devuelve índice y valor de cada elemento", "C) Ordena elementos", "D) Duplica elementos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'classmethod' y 'staticmethod'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'classmethod' y 'staticmethod'?",
     "opciones": ["A) No hay diferencia", "B) classmethod recibe cls, staticmethod no recibe self ni cls", "C) staticmethod es más rápido", "D) classmethod es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es la herencia múltiple en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la herencia múltiple en Python?",
     "opciones": ["A) Una clase con múltiples métodos", "B) Una clase que hereda de múltiples clases padre", "C) Múltiples objetos de una clase", "D) Una clase con múltiples atributos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'map()' y list comprehension?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'map()' y list comprehension?",
     "opciones": ["A) No hay diferencia", "B) map() devuelve iterador, list comprehension devuelve lista", "C) map() es más lento", "D) List comprehension es obsoleta"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace la función 'zip()'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace la función 'zip()'?",
     "opciones": ["A) Comprime archivos", "B) Combina elementos de múltiples iterables", "C) Ordena elementos", "D) Cuenta elementos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'break' y 'continue'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'break' y 'continue'?",
     "opciones": ["A) No hay diferencia", "B) break sale del bucle, continue salta a la siguiente iteración", "C) continue es más rápido", "D) break es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el 'Method Resolution Order' (MRO)?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'Method Resolution Order' (MRO)?",
     "opciones": ["A) Orden de métodos en clase", "B) Orden de búsqueda de métodos en herencia", "C) Orden de ejecución", "D) Orden de importación"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'finally' y 'else' en try-except?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'finally' y 'else' en try-except?",
     "opciones": ["A) No hay diferencia", "B) finally siempre se ejecuta, else solo si no hay excepción", "C) else es más rápido", "D) finally es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el método '__init__'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el método '__init__'?",
     "opciones": ["A) Destruye objetos", "B) Inicializa objetos recién creados", "C) Crea clases", "D) Importa módulos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'args' y 'kwargs'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'args' y 'kwargs'?",
     "opciones": ["A) No hay diferencia", "B) args para argumentos posicionales, kwargs para argumentos con nombre", "C) kwargs es más rápido", "D) args es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es un context manager en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un context manager en Python?",
     "opciones": ["A) Un tipo de función", "B) Un objeto que define métodos para usar con 'with'", "C) Un tipo de clase", "D) Un módulo"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'filter()' y list comprehension con condición?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'filter()' y list comprehension con condición?",
     "opciones": ["A) No hay diferencia", "B) filter() devuelve iterador, list comprehension devuelve lista", "C) filter() es más lento", "D) List comprehension es obsoleta"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace la función 'all()' en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace la función 'all()' en Python?",
     "opciones": ["A) Devuelve todos los elementos", "B) Devuelve True si todos los elementos son True", "C) Cuenta elementos", "D) Ordena elementos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'property' y atributo normal?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'property' y atributo normal?",
     "opciones": ["A) No hay diferencia", "B) property permite controlar acceso con métodos", "C) Property es más rápido", "D) Atributo normal es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el 'duck typing' en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'duck typing' en Python?",
     "opciones": ["A) Un tipo de dato", "B) Si camina como pato y habla como pato, es un pato", "C) Un método de clase", "D) Una función especial"],
-    "respuesta_correcta": "B"
-  }
+    "respuesta_correcta": "B"}
 ],
 
 "Avanzado": [
-  {
-    "pregunta": "¿Qué es el Global Interpreter Lock (GIL) en Python?",
+  
+  {"pregunta": "¿Qué es el Global Interpreter Lock (GIL) en Python?",
     "opciones": ["A) Un tipo de variable", "B) Un mecanismo que permite solo un hilo ejecutar código Python a la vez", "C) Una función de seguridad", "D) Un tipo de excepción"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre '__new__' y '__init__'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre '__new__' y '__init__'?",
     "opciones": ["A) No hay diferencia", "B) __new__ crea la instancia, __init__ la inicializa", "C) __init__ es más rápido", "D) __new__ es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es una metaclase en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una metaclase en Python?",
     "opciones": ["A) Una clase especial", "B) Una clase cuyas instancias son clases", "C) Un tipo de función", "D) Un módulo"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'weakref' y referencias normales?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'weakref' y referencias normales?",
     "opciones": ["A) No hay diferencia", "B) weakref no impide la recolección de basura", "C) weakref es más rápido", "D) Referencias normales son obsoletas"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el método '__slots__' en una clase?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el método '__slots__' en una clase?",
     "opciones": ["A) Crea métodos", "B) Restringe atributos y optimiza memoria", "C) Define herencia", "D) Importa módulos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'threading' y 'multiprocessing'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'threading' y 'multiprocessing'?",
     "opciones": ["A) No hay diferencia", "B) threading: hilos, multiprocessing: procesos separados", "C) threading es más rápido", "D) multiprocessing es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es un descriptor en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un descriptor en Python?",
     "opciones": ["A) Una función especial", "B) Un objeto que define __get__, __set__, o __delete__", "C) Un tipo de clase", "D) Un módulo"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'asyncio' y 'threading'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'asyncio' y 'threading'?",
     "opciones": ["A) No hay diferencia", "B) asyncio: programación asíncrona, threading: hilos", "C) asyncio es más lento", "D) threading es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el decorador '@functools.lru_cache'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el decorador '@functools.lru_cache'?",
     "opciones": ["A) Ordena funciones", "B) Cachea resultados de función con LRU", "C) Acelera funciones", "D) Duplica funciones"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'pickle' y 'json'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'pickle' y 'json'?",
     "opciones": ["A) No hay diferencia", "B) pickle: serialización Python, json: formato universal", "C) json es más rápido", "D) pickle es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el 'monkey patching' en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'monkey patching' en Python?",
     "opciones": ["A) Depurar código", "B) Modificar dinámicamente clases/módulos en tiempo de ejecución", "C) Optimizar código", "D) Documentar código"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'coroutine' y 'generator'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'coroutine' y 'generator'?",
     "opciones": ["A) No hay diferencia", "B) coroutine: async/await, generator: yield", "C) generator es más rápido", "D) coroutine es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el método '__enter__' y '__exit__'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el método '__enter__' y '__exit__'?",
     "opciones": ["A) Controla importaciones", "B) Implementa context manager protocol", "C) Maneja excepciones", "D) Crea objetos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'itertools.chain' y concatenación normal?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'itertools.chain' y concatenación normal?",
     "opciones": ["A) No hay diferencia", "B) chain es lazy y más eficiente en memoria", "C) Concatenación normal es más rápida", "D) chain es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el 'Abstract Base Class' (ABC) en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'Abstract Base Class' (ABC) en Python?",
     "opciones": ["A) Una clase normal", "B) Una clase que define interfaz sin implementación", "C) Un tipo de función", "D) Un módulo"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'sys.path' y 'PYTHONPATH'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'sys.path' y 'PYTHONPATH'?",
     "opciones": ["A) No hay diferencia", "B) sys.path: runtime, PYTHONPATH: variable de entorno", "C) sys.path es más rápido", "D) PYTHONPATH es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el método '__call__' en una clase?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el método '__call__' en una clase?",
     "opciones": ["A) Llama funciones", "B) Hace que la instancia sea callable como función", "C) Crea objetos", "D) Destruye objetos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'is' y '==' para objetos singleton?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'is' y '==' para objetos singleton?",
     "opciones": ["A) No hay diferencia", "B) is es más rápido para singletons como None, True, False", "C) == es más rápido", "D) is es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el 'namespace' en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'namespace' en Python?",
     "opciones": ["A) Un tipo de variable", "B) Un mapeo de nombres a objetos", "C) Una función especial", "D) Un módulo"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'locals()' y 'globals()'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'locals()' y 'globals()'?",
     "opciones": ["A) No hay diferencia", "B) locals(): variables locales, globals(): variables globales", "C) locals() es más rápido", "D) globals() es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el decorador '@staticmethod' vs '@classmethod'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el decorador '@staticmethod' vs '@classmethod'?",
     "opciones": ["A) Son idénticos", "B) staticmethod: sin self/cls, classmethod: recibe cls", "C) staticmethod es más rápido", "D) classmethod es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'hasattr' y 'getattr'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'hasattr' y 'getattr'?",
     "opciones": ["A) No hay diferencia", "B) hasattr: verifica existencia, getattr: obtiene valor", "C) hasattr es más rápido", "D) getattr es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es la 'closure' en Python?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la 'closure' en Python?",
     "opciones": ["A) Cerrar archivos", "B) Función que captura variables de su entorno", "C) Terminar programa", "D) Cerrar clases"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'exec' y 'eval'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'exec' y 'eval'?",
     "opciones": ["A) No hay diferencia", "B) exec: ejecuta código, eval: evalúa expresiones", "C) exec es más rápido", "D) eval es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el método '__getitem__' en una clase?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el método '__getitem__' en una clase?",
     "opciones": ["A) Obtiene elementos", "B) Permite indexación con corchetes []", "C) Crea listas", "D) Ordena elementos"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'shallow copy' y 'deep copy'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'shallow copy' y 'deep copy'?",
     "opciones": ["A) No hay diferencia", "B) shallow: copia referencias, deep: copia recursivamente", "C) shallow es más lento", "D) deep es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué es el 'decorator pattern' vs 'decorator syntax'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'decorator pattern' vs 'decorator syntax'?",
     "opciones": ["A) Son idénticos", "B) pattern: patrón de diseño, syntax: @decorator", "C) pattern es más rápido", "D) syntax es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre '__dict__' y '__slots__'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre '__dict__' y '__slots__'?",
     "opciones": ["A) No hay diferencia", "B) __dict__: diccionario dinámico, __slots__: atributos fijos", "C) __dict__ es más rápido", "D) __slots__ es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Qué hace el método '__setattr__' vs '__getattribute__'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué hace el método '__setattr__' vs '__getattribute__'?",
     "opciones": ["A) Son idénticos", "B) __setattr__: asigna atributos, __getattribute__: intercepta acceso", "C) __setattr__ es más rápido", "D) __getattribute__ es obsoleto"],
-    "respuesta_correcta": "B"
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia entre 'memory view' y 'buffer'?",
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'memory view' y 'buffer'?",
     "opciones": ["A) No hay diferencia", "B) memoryview: acceso sin copia, buffer: interfaz de memoria", "C) buffer es más rápido", "D) memoryview es obsoleto"],
-    "respuesta_correcta": "B"
-  }
+    "respuesta_correcta": "B"}
+
 
 ] 
   },
   
   "Base_de_datos":{
     "Basico":[
-      
+    {"pregunta": "¿Qué significa SQL?",
+    "opciones": ["A) Structured Query Language", "B) Simple Query Language", "C) Standard Query Language", "D) System Query Language"],
+    "respuesta_correcta": "A"},
 
+  {"pregunta": "¿Cuál es el comando para crear una nueva base de datos?",
+    "opciones": ["A) NEW DATABASE", "B) CREATE DATABASE", "C) MAKE DATABASE", "D) BUILD DATABASE"],
+    "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué comando se utiliza para seleccionar datos de una tabla?",
+    "opciones": ["A) GET", "B) FETCH", "C) SELECT", "D) RETRIEVE"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la palabra clave para insertar datos en una tabla?",
+    "opciones": ["A) ADD", "B) INSERT", "C) PUT", "D) APPEND"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué comando se usa para eliminar una tabla completa?",
+    "opciones": ["A) DELETE TABLE", "B) REMOVE TABLE", "C) DROP TABLE", "D) CLEAR TABLE"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la cláusula para filtrar resultados en una consulta SELECT?",
+    "opciones": ["A) FILTER", "B) WHERE", "C) HAVING", "D) CONDITION"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué tipo de dato se utiliza para almacenar texto variable?",
+    "opciones": ["A) TEXT", "B) VARCHAR", "C) STRING", "D) CHAR"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es el comando para actualizar datos existentes?",
+    "opciones": ["A) CHANGE", "B) MODIFY", "C) UPDATE", "D) ALTER"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué es una clave primaria (PRIMARY KEY)?",
+    "opciones": ["A) Una clave de acceso", "B) Un identificador único para cada fila", "C) Una contraseña", "D) Un índice especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para ordenar resultados?",
+    "opciones": ["A) SORT", "B) ORDER BY", "C) ARRANGE", "D) ORGANIZE"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué comando se utiliza para eliminar filas específicas?",
+    "opciones": ["A) REMOVE", "B) DELETE", "C) DROP", "D) CLEAR"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función para contar el número de filas?",
+    "opciones": ["A) COUNT()", "B) NUMBER()", "C) TOTAL()", "D) SUM()"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué significa NULL en SQL?",
+    "opciones": ["A) Cero", "B) Vacío", "C) Valor ausente o desconocido", "D) Error"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la cláusula para agrupar resultados?",
+    "opciones": ["A) GROUP BY", "B) CLUSTER", "C) COLLECT", "D) GATHER"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué operador se utiliza para buscar patrones en texto?",
+    "opciones": ["A) SEARCH", "B) FIND", "C) LIKE", "D) MATCH"],
+    "respuesta_correcta": "C"},
+  
+  {
+    "pregunta": "¿Cuál es el comando para crear una nueva tabla?",
+    "opciones": ["A) NEW TABLE", "B) CREATE TABLE", "C) MAKE TABLE", "D) BUILD TABLE"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué función devuelve el valor máximo de una columna?",
+    "opciones": ["A) MAXIMUM()", "B) MAX()", "C) HIGHEST()", "D) TOP()"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para combinar tablas?",
+    "opciones": ["A) COMBINE", "B) MERGE", "C) JOIN", "D) LINK"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué comando se utiliza para modificar la estructura de una tabla?",
+    "opciones": ["A) CHANGE TABLE", "B) MODIFY TABLE", "C) ALTER TABLE", "D) UPDATE TABLE"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la función para obtener la suma de valores?",
+    "opciones": ["A) TOTAL()", "B) SUM()", "C) ADD()", "D) PLUS()"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un índice en una base de datos?",
+    "opciones": ["A) Un número de página", "B) Una estructura para acelerar consultas", "C) Un tipo de dato", "D) Una tabla especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para valores únicos?",
+    "opciones": ["A) UNIQUE", "B) SINGLE", "C) DISTINCT", "D) DIFFERENT"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué operador se utiliza para verificar si un valor está en un rango?",
+    "opciones": ["A) RANGE", "B) BETWEEN", "C) FROM...TO", "D) IN RANGE"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función para obtener el promedio?",
+    "opciones": ["A) MEAN()", "B) AVERAGE()", "C) AVG()", "D) MEDIAN()"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué comando se utiliza para otorgar permisos a usuarios?",
+    "opciones": ["A) ALLOW", "B) PERMIT", "C) GRANT", "D) GIVE"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la palabra clave para limitar el número de resultados?",
+    "opciones": ["A) LIMIT", "B) TOP", "C) FIRST", "D) RESTRICT"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué es una clave foránea (FOREIGN KEY)?",
+    "opciones": ["A) Una clave de otro país", "B) Una referencia a la clave primaria de otra tabla", "C) Una clave especial", "D) Una clave externa"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es el operador para verificar múltiples valores?",
+    "opciones": ["A) ANY", "B) ALL", "C) IN", "D) SOME"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué función devuelve el valor mínimo?",
+    "opciones": ["A) MINIMUM()", "B) MIN()", "C) LOWEST()", "D) SMALL()"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para eliminar duplicados en SELECT?",
+    "opciones": ["A) UNIQUE", "B) DISTINCT", "C) DIFFERENT", "D) SINGLE"],
+    "respuesta_correcta": "B"}
     ],
     
     "Intermedio":[
+      
+  {"pregunta": "¿Qué significa SQL?",
+    "opciones": ["A) Structured Query Language", "B) Simple Query Language", "C) Standard Query Language", "D) System Query Language"],
+    "respuesta_correcta": "A"},
 
+  {"pregunta": "¿Cuál es el comando para crear una nueva base de datos?",
+    "opciones": ["A) NEW DATABASE", "B) CREATE DATABASE", "C) MAKE DATABASE", "D) BUILD DATABASE"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué comando se utiliza para seleccionar datos de una tabla?",
+    "opciones": ["A) GET", "B) FETCH", "C) SELECT", "D) RETRIEVE"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la palabra clave para insertar datos en una tabla?",
+    "opciones": ["A) ADD", "B) INSERT", "C) PUT", "D) APPEND"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué comando se usa para eliminar una tabla completa?",
+    "opciones": ["A) DELETE TABLE", "B) REMOVE TABLE", "C) DROP TABLE", "D) CLEAR TABLE"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la cláusula para filtrar resultados en una consulta SELECT?",
+    "opciones": ["A) FILTER", "B) WHERE", "C) HAVING", "D) CONDITION"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué tipo de dato se utiliza para almacenar texto variable?",
+    "opciones": ["A) TEXT", "B) VARCHAR", "C) STRING", "D) CHAR"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es el comando para actualizar datos existentes?",
+    "opciones": ["A) CHANGE", "B) MODIFY", "C) UPDATE", "D) ALTER"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué es una clave primaria (PRIMARY KEY)?",
+    "opciones": ["A) Una clave de acceso", "B) Un identificador único para cada fila", "C) Una contraseña", "D) Un índice especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para ordenar resultados?",
+    "opciones": ["A) SORT", "B) ORDER BY", "C) ARRANGE", "D) ORGANIZE"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué comando se utiliza para eliminar filas específicas?",
+    "opciones": ["A) REMOVE", "B) DELETE", "C) DROP", "D) CLEAR"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función para contar el número de filas?",
+    "opciones": ["A) COUNT()", "B) NUMBER()", "C) TOTAL()", "D) SUM()"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué significa NULL en SQL?",
+    "opciones": ["A) Cero", "B) Vacío", "C) Valor ausente o desconocido", "D) Error"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la cláusula para agrupar resultados?",
+    "opciones": ["A) GROUP BY", "B) CLUSTER", "C) COLLECT", "D) GATHER"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué operador se utiliza para buscar patrones en texto?",
+    "opciones": ["A) SEARCH", "B) FIND", "C) LIKE", "D) MATCH"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es el comando para crear una nueva tabla?",
+    "opciones": ["A) NEW TABLE", "B) CREATE TABLE", "C) MAKE TABLE", "D) BUILD TABLE"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué función devuelve el valor máximo de una columna?",
+    "opciones": ["A) MAXIMUM()", "B) MAX()", "C) HIGHEST()", "D) TOP()"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para combinar tablas?",
+    "opciones": ["A) COMBINE", "B) MERGE", "C) JOIN", "D) LINK"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué comando se utiliza para modificar la estructura de una tabla?",
+    "opciones": ["A) CHANGE TABLE", "B) MODIFY TABLE", "C) ALTER TABLE", "D) UPDATE TABLE"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la función para obtener la suma de valores?",
+    "opciones": ["A) TOTAL()", "B) SUM()", "C) ADD()", "D) PLUS()"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un índice en una base de datos?",
+    "opciones": ["A) Un número de página", "B) Una estructura para acelerar consultas", "C) Un tipo de dato", "D) Una tabla especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para valores únicos?",
+    "opciones": ["A) UNIQUE", "B) SINGLE", "C) DISTINCT", "D) DIFFERENT"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué operador se utiliza para verificar si un valor está en un rango?",
+    "opciones": ["A) RANGE", "B) BETWEEN", "C) FROM...TO", "D) IN RANGE"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función para obtener el promedio?",
+    "opciones": ["A) MEAN()", "B) AVERAGE()", "C) AVG()", "D) MEDIAN()"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué comando se utiliza para otorgar permisos a usuarios?",
+    "opciones": ["A) ALLOW", "B) PERMIT", "C) GRANT", "D) GIVE"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la palabra clave para limitar el número de resultados?",
+    "opciones": ["A) LIMIT", "B) TOP", "C) FIRST", "D) RESTRICT"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué es una clave foránea (FOREIGN KEY)?",
+    "opciones": ["A) Una clave de otro país", "B) Una referencia a la clave primaria de otra tabla", "C) Una clave especial", "D) Una clave externa"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es el operador para verificar múltiples valores?",
+    "opciones": ["A) ANY", "B) ALL", "C) IN", "D) SOME"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué función devuelve el valor mínimo?",
+    "opciones": ["A) MINIMUM()", "B) MIN()", "C) LOWEST()", "D) SMALL()"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la palabra clave para eliminar duplicados en SELECT?",
+    "opciones": ["A) UNIQUE", "B) DISTINCT", "C) DIFFERENT", "D) SINGLE"],
+    "respuesta_correcta": "B"}
     ],
 
    "Avanzado": [
+  {"pregunta": "¿Cuál es la diferencia entre optimización basada en costos y basada en reglas?",
+    "opciones": ["A) No hay diferencia", "B) Costos: estadísticas, Reglas: heurísticas predefinidas", "C) Reglas es más rápido", "D) Costos es obsoleto"],
+    "respuesta_correcta": "B"},
 
+  {"pregunta": "¿Qué es el plan de ejecución en SQL?",
+    "opciones": ["A) Un cronograma", "B) La estrategia que usa el motor para ejecutar una consulta", "C) Un tipo de índice", "D) Una función especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre Heap table y Clustered table?",
+    "opciones": ["A) No hay diferencia", "B) Heap: sin orden, Clustered: ordenada por clave", "C) Heap es más rápido", "D) Clustered es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'phantom read' en niveles de aislamiento?",
+    "opciones": ["A) Leer datos fantasma", "B) Nuevas filas aparecen en consultas repetidas", "C) Error de lectura", "D) Leer datos eliminados"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre SERIALIZABLE y REPEATABLE READ?",
+    "opciones": ["A) No hay diferencia", "B) SERIALIZABLE previene phantom reads, REPEATABLE READ no", "C) REPEATABLE READ es más rápido", "D) SERIALIZABLE es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'dirty read' en transacciones?",
+    "opciones": ["A) Leer datos sucios", "B) Leer datos no confirmados de otra transacción", "C) Error de lectura", "D) Leer datos corruptos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'covering index' y 'included columns'?",
+    "opciones": ["A) No hay diferencia", "B) Covering: incluye todas las columnas necesarias, Included: columnas adicionales", "C) Covering es más lento", "D) Included es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'lock escalation' en bases de datos?",
+    "opciones": ["A) Aumentar bloqueos", "B) Convertir múltiples bloqueos finos en uno grueso", "C) Escalar privilegios", "D) Bloqueo de emergencia"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'materialized view' y 'indexed view'?",
+    "opciones": ["A) Son sinónimos", "B) Materialized: físicamente almacenada, Indexed: con índices", "C) Indexed es más rápido", "D) Materialized es obsoleto"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Qué es la 'query hint' en SQL?",
+    "opciones": ["A) Una pista de consulta", "B) Directiva para influir en el optimizador", "C) Un comentario", "D) Una función especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'partitioning' horizontal y vertical?",
+    "opciones": ["A) No hay diferencia", "B) Horizontal: por filas, Vertical: por columnas", "C) Horizontal es más rápido", "D) Vertical es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'statistics update' en optimización?",
+    "opciones": ["A) Actualizar datos", "B) Actualizar información sobre distribución de datos", "C) Actualizar índices", "D) Actualizar tablas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'checkpoint' y 'backup'?",
+    "opciones": ["A) No hay diferencia", "B) Checkpoint: punto de consistencia, Backup: copia completa", "C) Checkpoint es más lento", "D) Backup es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'write-ahead logging' (WAL)?",
+    "opciones": ["A) Escribir antes de leer", "B) Escribir cambios en log antes que en datos", "C) Escribir adelantado", "D) Escribir con prioridad"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'nested loop' y 'hash join'?",
+    "opciones": ["A) No hay diferencia", "B) Nested: bucles anidados, Hash: tabla hash temporal", "C) Nested es más rápido", "D) Hash es obsoleto"],
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Qué es la 'cardinality estimation' en optimización?",
+    "opciones": ["A) Estimar tarjetas", "B) Estimar número de filas que devuelve una operación", "C) Contar registros", "D) Calcular memoria"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'MVCC' y 'locking'?",
+    "opciones": ["A) No hay diferencia", "B) MVCC: múltiples versiones, Locking: bloqueos exclusivos", "C) Locking es más rápido", "D) MVCC es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'buffer pool' en gestores de BD?",
+    "opciones": ["A) Una piscina de datos", "B) Área de memoria para cachear páginas de datos", "C) Un tipo de índice", "D) Una tabla especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'B-tree' y 'B+ tree' en índices?",
+    "opciones": ["A) No hay diferencia", "B) B+: datos solo en hojas, B-tree: datos en todos los nodos", "C) B-tree es más rápido", "D) B+ es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'query rewrite' en optimización?",
+    "opciones": ["A) Reescribir consultas manualmente", "B) Transformar consultas para mejorar rendimiento", "C) Corregir errores", "D) Cambiar sintaxis"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'eager loading' y 'lazy loading'?",
+    "opciones": ["A) No hay diferencia", "B) Eager: carga inmediata, Lazy: carga bajo demanda", "C) Eager es más lento", "D) Lazy es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'cost-based optimizer' (CBO)?",
+    "opciones": ["A) Un optimizador caro", "B) Optimizador que usa estadísticas para elegir mejor plan", "C) Un tipo de índice", "D) Una función especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'star schema' y 'snowflake schema'?",
+    "opciones": ["A) No hay diferencia", "B) Star: dimensiones desnormalizadas, Snowflake: normalizadas", "C) Star es más lento", "D) Snowflake es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'connection pooling'?",
+    "opciones": ["A) Piscina de conexiones", "B) Reutilizar conexiones para mejorar rendimiento", "C) Conectar tablas", "D) Agrupar datos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'OLTP' y 'OLAP'?",
+    "opciones": ["A) No hay diferencia", "B) OLTP: transaccional, OLAP: analítico", "C) OLTP es más lento", "D) OLAP es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la 'query parallelization'?",
+    "opciones": ["A) Consultas duplicadas", "B) Ejecutar partes de consulta en paralelo", "C) Consultas similares", "D) Consultas rápidas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'page split' y 'page merge'?",
+    "opciones": ["A) No hay diferencia", "B) Split: dividir página llena, Merge: unir páginas vacías", "C) Split es más rápido", "D) Merge es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'intent lock' en sistemas de bloqueo?",
+    "opciones": ["A) Bloqueo intencional", "B) Bloqueo que indica intención de bloquear a nivel inferior", "C) Bloqueo temporal", "D) Bloqueo especial"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 'forward scan' y 'backward scan'?",
+    "opciones": ["A) No hay diferencia", "B) Forward: orden ascendente, Backward: orden descendente", "C) Forward es más rápido", "D) Backward es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el 'predicate pushdown' en optimización?",
+    "opciones": ["A) Empujar predicados", "B) Mover filtros cerca del origen de datos", "C) Optimizar funciones", "D) Reorganizar consultas"],
+    "respuesta_correcta": "B"}
    ]
+  },
+
+  "Itinerario_Empleabilidad":{
+    "nombre":"Itinerario_empleabilidad",
+    "Basico":[
+  
+  {"pregunta": "¿Qué significa ASIR?",
+    "opciones": ["A) Administración de Sistemas Informáticos y Redes", "B) Aplicaciones de Sistemas de Información y Redes", "C) Análisis de Sistemas de Internet y Redes", "D) Arquitectura de Sistemas Informáticos y Redes"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la duración del ciclo formativo de ASIR?",
+    "opciones": ["A) 1 año", "B) 2 años", "C) 3 años", "D) 4 años"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué tipo de titulación es ASIR?",
+    "opciones": ["A) Grado Superior", "B) Grado Medio", "C) Universidad", "D) Bachillerato"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es una competencia principal del técnico en ASIR?",
+    "opciones": ["A) Diseño gráfico", "B) Administración de sistemas informáticos", "C) Marketing digital", "D) Contabilidad"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué documento es fundamental para buscar empleo?",
+    "opciones": ["A) Certificado de estudios", "B) Currículum vitae", "C) Carnet de conducir", "D) Pasaporte"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la red social profesional más utilizada para networking?",
+    "opciones": ["A) Facebook", "B) Instagram", "C) LinkedIn", "D) Twitter"],
+    "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Qué significa FCT en el contexto de FP?",
+    "opciones": ["A) Formación en Centros de Trabajo", "B) Formación Continua y Técnica", "C) Formación de Calidad Técnica", "D) Formación en Ciencias y Tecnología"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es un perfil profesional típico para un graduado en ASIR?",
+    "opciones": ["A) Diseñador web", "B) Administrador de sistemas", "C) Programador móvil", "D) Analista de datos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es importante incluir en la carta de presentación?",
+    "opciones": ["A) Toda la experiencia laboral", "B) Motivación y adecuación al puesto", "C) Datos personales completos", "D) Referencias familiares"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es una habilidad soft skill importante en IT?",
+    "opciones": ["A) Conocimiento de hardware", "B) Comunicación efectiva", "C) Programación en Java", "D) Configuración de redes"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué plataforma es popular para buscar empleo en tecnología?",
+    "opciones": ["A) InfoJobs", "B) Indeed", "C) LinkedIn", "D) Todas las anteriores"],
+    "respuesta_correcta": "D"},
+
+  {"pregunta": "¿Cuál es una certificación relevante para ASIR?",
+    "opciones": ["A) Certificación de idiomas", "B) Certificación Microsoft", "C) Certificación de conducir", "D) Certificación médica"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el networking profesional?",
+    "opciones": ["A) Configurar redes informáticas", "B) Crear contactos profesionales", "C) Trabajar en red", "D) Navegar por internet"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es una pregunta típica en entrevistas de trabajo?",
+    "opciones": ["A) ¿Cuál es tu color favorito?", "B) ¿Por qué quieres trabajar aquí?", "C) ¿Tienes mascota?", "D) ¿Qué desayunas?"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué tipo de empresa suele contratar técnicos ASIR?",
+    "opciones": ["A) Empresas de tecnología", "B) Restaurantes", "C) Tiendas de ropa", "D) Peluquerías"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es una competencia técnica básica en ASIR?",
+    "opciones": ["A) Cocinar", "B) Administrar servidores", "C) Tocar piano", "D) Pintar"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es importante en la imagen profesional?",
+    "opciones": ["A) Ropa de marca", "B) Presentación adecuada", "C) Joyas caras", "D) Peinado elaborado"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es un sector emergente para técnicos ASIR?",
+    "opciones": ["A) Agricultura tradicional", "B) Ciberseguridad", "C) Construcción", "D) Textil"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el teletrabajo?",
+    "opciones": ["A) Trabajar con televisión", "B) Trabajar desde casa", "C) Trabajar con teléfono", "D) Trabajar lejos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es una ventaja de tener un portafolio profesional?",
+    "opciones": ["A) Guardar documentos", "B) Demostrar habilidades y proyectos", "C) Llevar dinero", "D) Transportar herramientas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es importante en la comunicación profesional?",
+    "opciones": ["A) Hablar muy rápido", "B) Claridad y precisión", "C) Usar jerga técnica siempre", "D) Hablar muy bajo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es un objetivo del aprendizaje continuo?",
+    "opciones": ["A) Perder tiempo", "B) Mantenerse actualizado", "C) Complicar el trabajo", "D) Evitar cambios"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué tipo de contrato es común para recién graduados?",
+    "opciones": ["A) Indefinido", "B) Temporal o prácticas", "C) Freelance", "D) Voluntario"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es una característica del mercado laboral IT?",
+    "opciones": ["A) Muy estático", "B) En constante evolución", "C) Muy limitado", "D) Sin oportunidades"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es importante en el trabajo en equipo?",
+    "opciones": ["A) Trabajar solo", "B) Colaboración y comunicación", "C) Competir con compañeros", "D) Evitar responsabilidades"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es un beneficio de las prácticas profesionales?",
+    "opciones": ["A) Ganar mucho dinero", "B) Experiencia real en el sector", "C) Trabajar menos horas", "D) Evitar responsabilidades"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la empleabilidad?",
+    "opciones": ["A) Tener empleo", "B) Capacidad de conseguir y mantener empleo", "C) Trabajar gratis", "D) Buscar trabajo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es una tendencia actual en IT?",
+    "opciones": ["A) Menos uso de tecnología", "B) Cloud computing", "C) Vuelta a métodos antiguos", "D) Eliminación de internet"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es importante en la resolución de problemas?",
+    "opciones": ["A) Ignorar el problema", "B) Análisis y pensamiento crítico", "C) Actuar sin pensar", "D) Culpar a otros"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es una competencia digital básica?",
+    "opciones": ["A) Saber leer", "B) Manejo de herramientas informáticas", "C) Cocinar", "D) Conducir"],
+    "respuesta_correcta": "B"}
+    ],
+
+  "Intermedio": [
+    
+  {"pregunta": "¿Cuál es la diferencia entre competencias técnicas y transversales?",
+    "opciones": ["A) No hay diferencia", "B) Técnicas: específicas del puesto, Transversales: aplicables a cualquier trabajo", "C) Técnicas son más importantes", "D) Transversales son obsoletas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué metodología ágil es más utilizada en equipos de desarrollo?",
+    "opciones": ["A) Waterfall", "B) Scrum", "C) Kanban", "D) Tanto B como C"],
+    "respuesta_correcta": "D"},
+
+  {"pregunta": "¿Cuál es la diferencia entre CV cronológico y funcional?",
+    "opciones": ["A) No hay diferencia", "B) Cronológico: por fechas, Funcional: por competencias", "C) Cronológico es más moderno", "D) Funcional es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el elevator pitch?",
+    "opciones": ["A) Una presentación en ascensor", "B) Presentación personal breve y convincente", "C) Un tipo de CV", "D) Una técnica de venta"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son las fases del proceso de selección típico?",
+    "opciones": ["A) Solo entrevista", "B) CV, entrevista, pruebas técnicas, referencias", "C) Solo pruebas técnicas", "D) Solo referencias"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué significa DevOps en el contexto laboral?",
+    "opciones": ["A) Desarrollo de videojuegos", "B) Integración de desarrollo y operaciones", "C) Diseño de operaciones", "D) Desarrollo de opciones"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre outsourcing y insourcing?",
+    "opciones": ["A) No hay diferencia", "B) Outsourcing: externalizar, Insourcing: internalizar", "C) Outsourcing es más caro", "D) Insourcing es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el personal branding?",
+    "opciones": ["A) Marca personal", "B) Construir y gestionar tu reputación profesional", "C) Diseño de logos", "D) Marketing de productos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son los tipos de contrato más comunes en IT?",
+    "opciones": ["A) Solo indefinido", "B) Indefinido, temporal, freelance, prácticas", "C) Solo temporal", "D) Solo freelance"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la transformación digital empresarial?",
+    "opciones": ["A) Cambiar de local", "B) Integrar tecnología en todos los aspectos del negocio", "C) Cambiar de personal", "D) Comprar ordenadores"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre hard skills y soft skills?",
+    "opciones": ["A) No hay diferencia", "B) Hard: técnicas, Soft: interpersonales", "C) Hard son más importantes", "D) Soft son obsoletas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el trabajo en remoto híbrido?",
+    "opciones": ["A) Trabajar solo en casa", "B) Combinar trabajo presencial y remoto", "C) Trabajar solo en oficina", "D) Trabajar en varios lugares"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son las certificaciones más valoradas en ciberseguridad?",
+    "opciones": ["A) Solo universitarias", "B) CompTIA Security+, CISSP, CEH", "C) Solo Microsoft", "D) Solo Cisco"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión de proyectos en IT?",
+    "opciones": ["A) Gestionar solo código", "B) Planificar, ejecutar y controlar proyectos tecnológicos", "C) Gestionar solo presupuestos", "D) Gestionar solo personal"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre startup y empresa consolidada?",
+    "opciones": ["A) No hay diferencia", "B) Startup: reciente e innovadora, Consolidada: establecida", "C) Startup es más grande", "D) Consolidada es más nueva"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la inteligencia emocional en el trabajo?",
+    "opciones": ["A) Ser emocional", "B) Gestionar emociones propias y ajenas efectivamente", "C) Evitar emociones", "D) Ser muy sensible"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son las tendencias actuales en administración de sistemas?",
+    "opciones": ["A) Vuelta a sistemas antiguos", "B) Containerización, cloud, automation", "C) Menos automatización", "D) Evitar la nube"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el upskilling y reskilling?",
+    "opciones": ["A) Cambiar de trabajo", "B) Upskilling: mejorar habilidades, Reskilling: nuevas habilidades", "C) Reducir habilidades", "D) Evitar formación"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la importancia de la documentación técnica?",
+    "opciones": ["A) No es importante", "B) Facilita mantenimiento y transferencia de conocimiento", "C) Solo para cumplir", "D) Perder tiempo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la cultura empresarial?",
+    "opciones": ["A) Eventos culturales", "B) Valores, normas y comportamientos de la organización", "C) Solo fiestas", "D) Arte en oficinas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son los roles emergentes en IT?",
+    "opciones": ["A) Solo programador", "B) DevOps Engineer, Data Scientist, Cloud Architect", "C) Solo administrador", "D) Solo técnico"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la negociación salarial?",
+    "opciones": ["A) Aceptar siempre", "B) Proceso de acordar condiciones laborales y económicas", "C) Rechazar ofertas", "D) Solo pedir más dinero"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre mentoring y coaching?",
+    "opciones": ["A) Son sinónimos", "B) Mentoring: experiencia, Coaching: habilidades específicas", "C) Mentoring es más caro", "D) Coaching es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión del cambio en IT?",
+    "opciones": ["A) Cambiar de trabajo", "B) Proceso de adaptación a nuevas tecnologías y procesos", "C) Cambiar de oficina", "D) Evitar cambios"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son las métricas importantes en un perfil profesional?",
+    "opciones": ["A) Solo años de experiencia", "B) Experiencia, proyectos, certificaciones, resultados", "C) Solo salario", "D) Solo estudios"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la diversidad e inclusión en el workplace?",
+    "opciones": ["A) Tener muchos empleados", "B) Crear entornos diversos y equitativos", "C) Solo contratar locales", "D) Evitar diferencias"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la importancia de la ciberseguridad en todas las empresas?",
+    "opciones": ["A) Solo para empresas IT", "B) Proteger información y sistemas es crítico para todos", "C) No es importante", "D) Solo para grandes empresas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la automatización en procesos IT?",
+    "opciones": ["A) Hacer todo manual", "B) Usar tecnología para ejecutar tareas sin intervención humana", "C) Evitar tecnología", "D) Trabajar más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son las soft skills más demandadas en IT?",
+    "opciones": ["A) Solo técnicas", "B) Comunicación, trabajo en equipo, resolución de problemas", "C) Solo idiomas", "D) Solo liderazgo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el equilibrio trabajo-vida personal?",
+    "opciones": ["A) Trabajar siempre", "B) Balancear tiempo laboral y personal de manera saludable", "C) No trabajar nunca", "D) Solo trabajar fines de semana"],
+    "respuesta_correcta": "B"}
+  ],
+
+  "Avanzado": [
+  
+  {"pregunta": "¿Cuál es la diferencia entre liderazgo transformacional y transaccional?",
+    "opciones": ["A) No hay diferencia", "B) Transformacional: inspira cambio, Transaccional: intercambio de recompensas", "C) Transformacional es más rápido", "D) Transaccional es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión del talento en organizaciones IT?",
+    "opciones": ["A) Contratar artistas", "B) Atraer, desarrollar y retener profesionales de alto rendimiento", "C) Organizar espectáculos", "D) Gestionar solo salarios"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre arquitectura empresarial y técnica?",
+    "opciones": ["A) Son sinónimos", "B) Empresarial: estrategia y procesos, Técnica: sistemas y tecnología", "C) Empresarial es más simple", "D) Técnica es obsoleta"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la inteligencia artificial aplicada a RRHH?",
+    "opciones": ["A) Robots trabajando", "B) Automatización de procesos de selección y análisis de talento", "C) Eliminar RRHH", "D) Solo chatbots"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre Business Intelligence y Business Analytics?",
+    "opciones": ["A) No hay diferencia", "B) BI: descriptivo, BA: predictivo y prescriptivo", "C) BI es más moderno", "D) BA es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión del conocimiento en organizaciones IT?",
+    "opciones": ["A) Estudiar mucho", "B) Capturar, compartir y utilizar conocimiento organizacional", "C) Memorizar información", "D) Crear bibliotecas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre outsourcing, nearshoring y offshoring?",
+    "opciones": ["A) Son sinónimos", "B) Outsourcing: externalizar, Nearshoring: países cercanos, Offshoring: países lejanos", "C) Outsourcing es más caro", "D) Nearshoring es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la transformación digital del puesto de trabajo?",
+    "opciones": ["A) Cambiar de oficina", "B) Integrar tecnologías digitales en la experiencia laboral", "C) Comprar ordenadores nuevos", "D) Trabajar más horas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre innovación incremental y disruptiva?",
+    "opciones": ["A) No hay diferencia", "B) Incremental: mejoras graduales, Disruptiva: cambios radicales", "C) Incremental es más rápida", "D) Disruptiva es obsoleta"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión de la diversidad generacional en IT?",
+    "opciones": ["A) Contratar solo jóvenes", "B) Integrar diferentes generaciones aprovechando sus fortalezas", "C) Separar por edades", "D) Evitar diferencias"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre stakeholder management y customer management?",
+    "opciones": ["A) Son sinónimos", "B) Stakeholder: todas las partes interesadas, Customer: solo clientes", "C) Stakeholder es más simple", "D) Customer es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la arquitectura de microservicios en el contexto empresarial?",
+    "opciones": ["A) Servicios pequeños", "B) Estrategia de desarrollo que impacta en estructura organizacional", "C) Servicios baratos", "D) Servicios rápidos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre compliance y governance en IT?",
+    "opciones": ["A) No hay diferencia", "B) Compliance: cumplir normas, Governance: dirigir y controlar", "C) Compliance es más importante", "D) Governance es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la economía del conocimiento?",
+    "opciones": ["A) Estudiar economía", "B) Economía basada en la creación y uso del conocimiento", "C) Economía de universidades", "D) Economía de libros"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre digital transformation y digitalization?",
+    "opciones": ["A) Son sinónimos", "B) Digitalization: procesos digitales, Transformation: cambio cultural", "C) Digitalization es más moderna", "D) Transformation es obsoleta"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión del riesgo tecnológico?",
+    "opciones": ["A) Evitar tecnología", "B) Identificar, evaluar y mitigar riesgos relacionados con IT", "C) Comprar seguros", "D) Contratar más personal"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre change management y change leadership?",
+    "opciones": ["A) No hay diferencia", "B) Management: procesos, Leadership: inspirar y guiar", "C) Management es más importante", "D) Leadership es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la neurociencia aplicada al liderazgo?",
+    "opciones": ["A) Operar cerebros", "B) Usar conocimiento del cerebro para mejorar liderazgo", "C) Estudiar neurología", "D) Hacer escáneres"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre enterprise architecture y solution architecture?",
+    "opciones": ["A) Son sinónimos", "B) Enterprise: toda la organización, Solution: solución específica", "C) Enterprise es más simple", "D) Solution es obsoleta"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión de la experiencia del empleado (Employee Experience)?",
+    "opciones": ["A) Organizar eventos", "B) Diseñar el recorrido completo del empleado en la empresa", "C) Dar regalos", "D) Hacer fiestas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre data-driven y insight-driven decision making?",
+    "opciones": ["A) Son sinónimos", "B) Data-driven: basado en datos, Insight-driven: basado en comprensión", "C) Data-driven es más moderno", "D) Insight-driven es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión de la innovación continua?",
+    "opciones": ["A) Cambiar constantemente", "B) Proceso sistemático para generar y implementar mejoras", "C) Nunca parar", "D) Solo hacer cambios grandes"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre strategic thinking y strategic planning?",
+    "opciones": ["A) No hay diferencia", "B) Thinking: capacidad mental, Planning: proceso formal", "C) Thinking es más importante", "D) Planning es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión de ecosistemas tecnológicos?",
+    "opciones": ["A) Cuidar plantas", "B) Coordinar múltiples tecnologías y actores interconectados", "C) Gestionar animales", "D) Cuidar el ambiente"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre disruption y innovation?",
+    "opciones": ["A) Son sinónimos", "B) Disruption: cambio radical del mercado, Innovation: mejora o novedad", "C) Disruption es más simple", "D) Innovation es obsoleta"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la inteligencia competitiva en IT?",
+    "opciones": ["A) Competir inteligentemente", "B) Recopilar y analizar información sobre competidores", "C) Ser más inteligente", "D) Ganar siempre"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre culture change y culture transformation?",
+    "opciones": ["A) Son sinónimos", "B) Change: modificación, Transformation: cambio profundo y sostenido", "C) Change es más rápido", "D) Transformation es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión de la complejidad organizacional?",
+    "opciones": ["A) Hacer todo complejo", "B) Navegar y gestionar sistemas organizacionales complejos", "C) Evitar complejidad", "D) Simplificar todo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre digital native y digital immigrant?",
+    "opciones": ["A) No hay diferencia", "B) Native: creció con tecnología, Immigrant: la adoptó después", "C) Native es más inteligente", "D) Immigrant es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la gestión de la paradoja en entornos VUCA?",
+    "opciones": ["A) Evitar paradojas", "B) Manejar contradicciones en entornos volátiles e inciertos", "C) Resolver todo", "D) Crear más paradojas"],
+    "respuesta_correcta": "B"}
+  ]
+  },
+
+  "Implantacion_SO":{
+    "nombre":"Implantacion_Sistemas",
+    "Basico":[
+
+    ],
+
+    "Intermedio":[
+
+
+    ],
+
+    "Avanzado":[
+
+    ]
+
+  },
+
+  "Implentacion_Redes":{
+    "nombre":"Implementacion_de_Redes"
   }
 
   
