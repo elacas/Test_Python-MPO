@@ -1,502 +1,509 @@
 {
-"asignaturas": {
+"asignaturas":{
 
-    "Lenguaje_de_marcas": {
-        "nombre": "Lenguaje_de_Marcas",
-        "basico":[
-             {"pregunta": "¿Qué significa HTML?",
-              "opciones": ["A) High Tech Markup Language", "B) HyperText Markup Language", "C) Home Tool Markup Language", "D) Hyper Transfer Markup Language"],
-              "respuesta_correcta": "B"},
+  "Lenguaje_de_marcas":{
+    "nombre": "Lenguaje_de_Marcas",
+    "basico":[
 
-             {"pregunta": "¿Cuál es la etiqueta correcta para crear un párrafo en HTML?" ,
-             "opciones": ["A) <paragraph> ", "B) <par> ", "C) <p>", "D) <text>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué significa HTML?",
+   "opciones": ["A) High Tech Markup Language", "B) HyperText Markup Language", "C) Home Tool Markup Language", "D) Hyper Transfer Markup Language"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la etiqueta correcta para crear un párrafo en HTML?" ,
-             "opciones": ["A) <paragraph> ", "B) <par> ", "C) <p>", "D) <text>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la etiqueta correcta para crear un párrafo en HTML?" ,
+   "opciones": ["A) <paragraph> ", "B) <par> ", "C) <p>", "D) <text>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para insertar un salto de línea en HTML?" ,
-             "opciones": ["A) <break>", "B) <br>", "C) <line>", "D) <newline>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta correcta para crear un párrafo en HTML?" ,
+   "opciones": ["A) <paragraph> ", "B) <par> ", "C) <p>", "D) <text>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la estructura básica de un documento HTML?" ,
-             "opciones": ["A) <html><head><body>", "B) <document><header><content>", "C) <page><title><text>", "D)<web><info><data> "],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué etiqueta se utiliza para insertar un salto de línea en HTML?" ,
+   "opciones": ["A) <break>", "B) <br>", "C) <line>", "D) <newline>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué significa XML?" ,
-             "opciones": ["A) eXtended Markup Language ", "B) eXtensible Markup Language ", "C) eXternal Markup Language", "D) eXecutable Markup Language"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la estructura básica de un documento HTML?" ,
+   "opciones": ["A) <html><head><body>", "B) <document><header><content>", "C) <page><title><text>", "D)<web><info><data> "],
+   "respuesta_correcta": "A"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear un enlace en HTML?" ,
-             "opciones": ["A) <link> ", "B) <url> ", "C) <a>", "D) <href>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué significa XML?" ,
+   "opciones": ["A) eXtended Markup Language ", "B) eXtensible Markup Language ", "C) eXternal Markup Language", "D) eXecutable Markup Language"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué atributo se utiliza para especificar la dirección de un enlace?" ,
-             "opciones": ["A) src ", "B) href ", "C) link", "D) url"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para crear un enlace en HTML?" ,
+   "opciones": ["A) <link> ", "B) <url> ", "C) <a>", "D) <href>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta para insertar una imagen en HTML?" ,
-             "opciones": ["A) <image> ", "B) <pic> ", "C) <img>", "D) <photo>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué atributo se utiliza para especificar la dirección de un enlace?" ,
+   "opciones": ["A) src ", "B) href ", "C) link", "D) url"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para crear una lista ordenada?" ,
-             "opciones": ["A) <ul> ", "B) <ol> ", "C) <list> ", "D) <order>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para insertar una imagen en HTML?" ,
+   "opciones": ["A) <image> ", "B) <pic> ", "C) <img>", "D) <photo>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear un título principal en HTML?" ,
-             "opciones": ["A) <title> ", "B) <header> ", "C) <h1> ", "D) <main>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué etiqueta se utiliza para crear una lista ordenada?" ,
+   "opciones": ["A) <ul> ", "B) <ol> ", "C) <list> ", "D) <order>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué significa CSS?" ,
-             "opciones": ["A) Computer Style Sheets ", "B) Cascading Style Sheets ", "C) Creative Style Sheets ", "D) Code Style Sheets"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para crear un título principal en HTML?" ,
+   "opciones": ["A) <title> ", "B) <header> ", "C) <h1> ", "D) <main>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta correcta para crear una tabla en HTML?" ,
-             "opciones": ["A) <table> ", "B) <tab> ", "C) <grid> ", "D) <matrix>"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué significa CSS?" ,
+   "opciones": ["A) Computer Style Sheets ", "B) Cascading Style Sheets ", "C) Creative Style Sheets ", "D) Code Style Sheets"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para crear una celda de datos en una tabla?" ,
-             "opciones": ["A) <cell> ", "B) <data> ", "C) <td> ", "D) <dc>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la etiqueta correcta para crear una tabla en HTML?" ,
+   "opciones": ["A) <table> ", "B) <tab> ", "C) <grid> ", "D) <matrix>"],
+   "respuesta_correcta": "A"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear una lista no ordenada?" ,
-             "opciones": ["A) <ol> ", "B) <ul> ", "C) <list> ", "D) <unorder>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué etiqueta se utiliza para crear una celda de datos en una tabla?" ,
+   "opciones": ["A) <cell> ", "B) <data> ", "C) <td> ", "D) <dc>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Qué atributo se utiliza para especificar el texto alternativo de una imagen?" ,
-             "opciones": ["A) title ", "B) alt ", "C) description ", "D) text"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para crear una lista no ordenada?" ,
+   "opciones": ["A) <ol> ", "B) <ul> ", "C) <list> ", "D) <unorder>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear un formulario en HTML?" ,
-             "opciones": ["A) <form> ", "B) <input> ", "C) <field> ", "D) <data>"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué atributo se utiliza para especificar el texto alternativo de una imagen?" ,
+   "opciones": ["A) title ", "B) alt ", "C) description ", "D) text"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para crear un campo de texto en un formulario?" ,
-             "opciones": ["A) <text> ", "B) <field> ", "C) <input> ", "D) <textbox>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la etiqueta para crear un formulario en HTML?" ,
+   "opciones": ["A) <form> ", "B) <input> ", "C) <field> ", "D) <data>"],
+   "respuesta_correcta": "A"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear un botón en HTML?" ,
-             "opciones": ["A) <btn> ", "B) <button> ", "C) <click> ", "D) <press>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué etiqueta se utiliza para crear un campo de texto en un formulario?" ,
+   "opciones": ["A) <text> ", "B) <field> ", "C) <input> ", "D) <textbox>"],
+   "respuesta_correcta": "C"},
+
+  {"pregunta": "¿Cuál es la etiqueta para crear un botón en HTML?" ,
+   "opciones": ["A) <btn> ", "B) <button> ", "C) <click> ", "D) <press>"],
+   "respuesta_correcta": "B"},
     
-             {"pregunta": "¿Qué etiqueta se utiliza para incluir contenido de la cabecera del documento?" ,
-             "opciones": ["A) <header> ", "B) <head> ", "C) <top> ", "D) <meta>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué etiqueta se utiliza para incluir contenido de la cabecera del documento?" ,
+   "opciones": ["A) <header> ", "B) <head> ", "C) <top> ", "D) <meta>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para incluir contenido de la cabecera del documento?" ,
-             "opciones": ["A) <header> ", "B) <head> ", "C) <top> ", "D) <meta>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué etiqueta se utiliza para incluir contenido de la cabecera del documento?" ,
+   "opciones": ["A) <header> ", "B) <head> ", "C) <top> ", "D) <meta>"],
+   "respuesta_correcta": "B"},
 
-              {"pregunta": "¿Cuál es la etiqueta para crear texto en negrita?" ,
-             "opciones": ["A) <bold> ", "B) <b> ", "C) <strong>", "D) Tanto B como C son correctas"],
-             "respuesta_correcta": "D"},
+  {"pregunta": "¿Cuál es la etiqueta para crear texto en negrita?" ,
+   "opciones": ["A) <bold> ", "B) <b> ", "C) <strong>", "D) Tanto B como C son correctas"],
+   "respuesta_correcta": "D"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para crear texto en cursiva?" ,
-             "opciones": ["A) <italic> ", "B) <i>", "C) <em>", "D) Tanto B como C son correctas"],
-             "respuesta_correcta": "D"},
+  {"pregunta": "¿Qué etiqueta se utiliza para crear texto en cursiva?" ,
+   "opciones": ["A) <italic> ", "B) <i>", "C) <em>", "D) Tanto B como C son correctas"],
+   "respuesta_correcta": "D"},
 
-             {"pregunta": "¿Cuál es la extensión de archivo típica para documentos HTML?" ,
-             "opciones": ["A) .htm ", "B) .html", "C) Ambas son correctas", "D) .web"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la extensión de archivo típica para documentos HTML?" ,
+   "opciones": ["A) .htm ", "B) .html", "C) Ambas son correctas", "D) .web"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para insertar un comentario en HTML?" ,
-             "opciones": ["A) <comment>", "B) <!-- -->", "C) <note>", "D) <remark>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué etiqueta se utiliza para insertar un comentario en HTML?" ,
+   "opciones": ["A) <comment>", "B) <!-- -->", "C) <note>", "D) <remark>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear una división o sección en HTML?" ,
-             "opciones": ["A) <div>", "B) <section>", "C) <block>", "D) <area>"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Cuál es la etiqueta para crear una división o sección en HTML?" ,
+   "opciones": ["A) <div>", "B) <section>", "C) <block>", "D) <area>"],
+   "respuesta_correcta": "A"},
 
-             {"pregunta": "¿Qué atributo se utiliza para especificar el identificador único de un elemento?" ,
-             "opciones": ["A) class", "B) name", "C) id", "D) unique"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué atributo se utiliza para especificar el identificador único de un elemento?" ,
+   "opciones": ["A) class", "B) name", "C) id", "D) unique"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear un área de texto multilínea?" ,
-             "opciones": ["A) <textbox>", "B) <textarea>", "C) <multitext>", "D) <text>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para crear un área de texto multilínea?" ,
+   "opciones": ["A) <textbox>", "B) <textarea>", "C) <multitext>", "D) <text>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para incluir código JavaScript en HTML?" ,
-             "opciones": ["A) <js>", "B) <javascript>", "C) <script>", "D) <code>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué etiqueta se utiliza para incluir código JavaScript en HTML?" ,
+   "opciones": ["A) <js>", "B) <javascript>", "C) <script>", "D) <code>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear una fila en una tabla?" ,
-             "opciones": ["A) <row>", "B) <tr>", "C) <line>", "D) <trow>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para crear una fila en una tabla?" ,
+   "opciones": ["A) <row>", "B) <tr>", "C) <line>", "D) <trow>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para crear un encabezado de tabla?" ,
-             "opciones": ["A) <header>", "B) <th>", "C) <thead>", "D) <head>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué etiqueta se utiliza para crear un encabezado de tabla?" ,
+   "opciones": ["A) <header>", "B) <th>", "C) <thead>", "D) <head>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la etiqueta para incluir estilos CSS internos en un documento HTML?" ,
-             "opciones": ["A) <css>", "B) <style>", "C) <design>", "D)<format> "],
-             "respuesta_correcta": "B"}
-     ],
+  {"pregunta": "¿Cuál es la etiqueta para incluir estilos CSS internos en un documento HTML?" ,
+   "opciones": ["A) <css>", "B) <style>", "C) <design>", "D)<format> "],
+   "respuesta_correcta": "B"}
+            ],
 
-         "Intermedio":[
+  "Intermedio":[
         
+  {"pregunta": "¿Qué significa DOCTYPE en HTML5?",
+    "opciones": ["A) Define el tipo de documento", "B) Define el tipo de datos", "C) Define el tipo de código", "D) Define el tipo de página"],
+   "respuesta_correcta": "A"},
 
-             {"pregunta": "¿Qué significa DOCTYPE en HTML5?",
-             "opciones": ["A) Define el tipo de documento", "B) Define el tipo de datos", "C) Define el tipo de código", "D) Define el tipo de página"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Cuál es la sintaxis correcta para un DOCTYPE en HTML5?",
+   "opciones": ["A) <!DOCTYPE html5>", "B) <!DOCTYPE HTML>", "C) <!DOCTYPE html>", "D) <!DOCTYPE>"],
+   "respuesta_correcta": "C" },
 
-             {"pregunta": "¿Cuál es la sintaxis correcta para un DOCTYPE en HTML5?",
-             "opciones": ["A) <!DOCTYPE html5>", "B) <!DOCTYPE HTML>", "C) <!DOCTYPE html>", "D) <!DOCTYPE>"],
-             "respuesta_correcta": "C" },
+  {"pregunta": "¿Qué etiqueta semántica de HTML5 se utiliza para contenido principal?",
+   "opciones": ["A) <main>", "B) <content>", "C) <primary>", "D) <body>"],
+   "respuesta_correcta": "A"},
 
-             {"pregunta": "¿Qué etiqueta semántica de HTML5 se utiliza para contenido principal?",
-             "opciones": ["A) <main>", "B) <content>", "C) <primary>", "D) <body>"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Cuál es el atributo correcto para hacer un campo de formulario obligatorio en HTML5?",
+   "opciones": ["A) mandatory", "B) required", "C) obligatory", "D) needed"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es el atributo correcto para hacer un campo de formulario obligatorio en HTML5?",
-             "opciones": ["A) mandatory", "B) required", "C) obligatory", "D) needed"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué selector CSS se utiliza para seleccionar elementos por clase?",
+   "opciones": ["A) #", "B) .", "C) @", "D) *"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué selector CSS se utiliza para seleccionar elementos por clase?",
-             "opciones": ["A) #", "B) .", "C) @", "D) *"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre <section> y <div>?",
+    "opciones": ["A) No hay diferencia", "B) <section> es semántico, <div> no", "C) <div> es más moderno", "D) <section> es más rápido"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la diferencia entre <section> y <div>?",
-             "opciones": ["A) No hay diferencia", "B) <section> es semántico, <div> no", "C) <div> es más moderno", "D) <section> es más rápido"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué atributo se utiliza para especificar el tipo de entrada en un campo input?",
+   "opciones": ["A) kind", "B) type", "C) format", "D) style"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué atributo se utiliza para especificar el tipo de entrada en un campo input?",
-             "opciones": ["A) kind", "B) type", "C) format", "D) style"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta correcta para reproducir video en HTML5?",
+   "opciones": ["A) <movie>", "B) <media>", "C) <video>", "D) <film>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta correcta para reproducir video en HTML5?",
-             "opciones": ["A) <movie>", "B) <media>", "C) <video>", "D) <film>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué significa el atributo 'alt' en las imágenes?",
+   "opciones": ["A) Altura alternativa", "B) Texto alternativo", "C) Ancho alternativo", "D) Archivo alternativo"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué significa el atributo 'alt' en las imágenes?",
-             "opciones": ["A) Altura alternativa", "B) Texto alternativo", "C) Ancho alternativo", "D) Archivo alternativo"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para crear un área de navegación semántica?",
+   "opciones": ["A) <navigation>", "B) <menu>", "C) <nav>", "D) <navbar>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear un área de navegación semántica?",
-             "opciones": ["A) <navigation>", "B) <menu>", "C) <nav>", "D) <navbar>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué atributo se utiliza para abrir un enlace en una nueva ventana?",
+   "opciones": ["A) window='new'", "B) target='_blank'", "C) open='new'", "D) link='blank'"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué atributo se utiliza para abrir un enlace en una nueva ventana?",
-             "opciones": ["A) window='new'", "B) target='_blank'", "C) open='new'", "D) link='blank'"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para pie de página semántico en HTML5?",
+   "opciones": ["A) <bottom>", "B) <footer>", "C) <end>", "D) <closing>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la etiqueta para pie de página semántico en HTML5?",
-             "opciones": ["A) <bottom>", "B) <footer>", "C) <end>", "D) <closing>"],
-             "respuesta_correcta": "B"},
-
-             {"pregunta": "¿Qué propiedad CSS se utiliza para cambiar el color de fondo?",
-             "opciones": ["A) color", "B) bg-color", "C) background-color", "D) back-color"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué propiedad CSS se utiliza para cambiar el color de fondo?",
+   "opciones": ["A) color", "B) bg-color", "C) background-color", "D) back-color"],
+   "respuesta_correcta": "C"},
   
-             {"pregunta": "¿Cuál es la diferencia entre margin y padding en CSS?",
-             "opciones": ["A) No hay diferencia", "B) Margin es interno, padding externo", "C) Margin es externo, padding interno", "D) Margin es para texto, padding para imágenes"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la diferencia entre margin y padding en CSS?",
+   "opciones": ["A) No hay diferencia", "B) Margin es interno, padding externo", "C) Margin es externo, padding interno", "D) Margin es para texto, padding para imágenes"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Qué atributo HTML5 permite almacenar datos personalizados?",
-             "opciones": ["A) custom-*", "B) data-*", "C) info-*", "D) user-*"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué atributo HTML5 permite almacenar datos personalizados?",
+   "opciones": ["A) custom-*", "B) data-*", "C) info-*", "D) user-*"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es el método HTTP por defecto en los formularios HTML?",
-             "opciones": ["A) POST", "B) GET", "C) PUT", "D) DELETE"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es el método HTTP por defecto en los formularios HTML?",
+   "opciones": ["A) POST", "B) GET", "C) PUT", "D) DELETE"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué etiqueta se utiliza para agrupar opciones en un select?",
-             "opciones": ["A) <group>", "B) <optgroup>", "C) <selectgroup>", "D) <options>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué etiqueta se utiliza para agrupar opciones en un select?",
+   "opciones": ["A) <group>", "B) <optgroup>", "C) <selectgroup>", "D) <options>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la etiqueta correcta para mostrar código preformateado?",
-             "opciones": ["A) <code>", "B) <pre>", "C) <format>", "D) <text>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta correcta para mostrar código preformateado?",
+   "opciones": ["A) <code>", "B) <pre>", "C) <format>", "D) <text>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué significa 'responsive design'?",
-             "opciones": ["A) Diseño rápido", "B) Diseño que responde a preguntas", "C) Diseño adaptable a diferentes dispositivos", "D) Diseño con respuestas automáticas"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué significa 'responsive design'?",
+   "opciones": ["A) Diseño rápido", "B) Diseño que responde a preguntas", "C) Diseño adaptable a diferentes dispositivos", "D) Diseño con respuestas automáticas"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta para insertar audio en HTML5?",
-             "opciones": ["A) <sound>", "B) <music>", "C) <audio>", "D) <media>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la etiqueta para insertar audio en HTML5?",
+   "opciones": ["A) <sound>", "B) <music>", "C) <audio>", "D) <media>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Qué atributo se utiliza para especificar el idioma de un elemento?",
-             "opciones": ["A) language", "B) lang", "C) locale", "D) idioma"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué atributo se utiliza para especificar el idioma de un elemento?",
+   "opciones": ["A) language", "B) lang", "C) locale", "D) idioma"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la unidad de medida relativa más común en CSS?",
-             "opciones": ["A) px", "B) pt", "C) em", "D) cm"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la unidad de medida relativa más común en CSS?",
+   "opciones": ["A) px", "B) pt", "C) em", "D) cm"],
+   "respuesta_correcta": "C"},
   
-             {"pregunta": "¿Qué etiqueta se utiliza para crear una lista de definiciones?",
-             "opciones": ["A) <dl>", "B) <def>", "C) <definition>", "D) <describe>"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué etiqueta se utiliza para crear una lista de definiciones?",
+   "opciones": ["A) <dl>", "B) <def>", "C) <definition>", "D) <describe>"],
+   "respuesta_correcta": "A"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear un artículo independiente en HTML5?",
-             "opciones": ["A) <content>", "B) <article>", "C) <post>", "D) <item>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta para crear un artículo independiente en HTML5?",
+   "opciones": ["A) <content>", "B) <article>", "C) <post>", "D) <item>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué selector CSS tiene mayor especificidad?",
-             "opciones": ["A) Etiqueta", "B) Clase", "C) ID", "D) Atributo"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué selector CSS tiene mayor especificidad?",
+   "opciones": ["A) Etiqueta", "B) Clase", "C) ID", "D) Atributo"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Cuál es la etiqueta correcta para crear un campo de fecha en HTML5?",
-             "opciones": ["A) <input type='calendar'>", "B) <input type='date'>", "C) <date>", "D) <input type='time'>"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la etiqueta correcta para crear un campo de fecha en HTML5?",
+   "opciones": ["A) <input type='calendar'>", "B) <input type='date'>", "C) <date>", "D) <input type='time'>"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué significa 'semantic HTML'?",
-             "opciones": ["A) HTML con significado semántico", "B) HTML rápido", "C) HTML seminal", "D) HTML simple"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué significa 'semantic HTML'?",
+   "opciones": ["A) HTML con significado semántico", "B) HTML rápido", "C) HTML seminal", "D) HTML simple"],
+   "respuesta_correcta": "A"},
 
-             {"pregunta": "¿Cuál es la etiqueta para crear un contenido lateral en HTML5?",
-             "opciones": ["A) <sidebar>", "B) <side>", "C) <aside>", "D) <lateral>"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la etiqueta para crear un contenido lateral en HTML5?",
+   "opciones": ["A) <sidebar>", "B) <side>", "C) <aside>", "D) <lateral>"],
+   "respuesta_correcta": "C"},
 
-             {"pregunta": "¿Qué atributo permite que un elemento sea editable directamente en el navegador?",
-             "opciones": ["A) editable", "B) contenteditable", "C) edit", "D) modify"],
-             "respuesta_correcta": "B"}
+  {"pregunta": "¿Qué atributo permite que un elemento sea editable directamente en el navegador?",
+   "opciones": ["A) editable", "B) contenteditable", "C) edit", "D) modify"],
+   "respuesta_correcta": "B"}
 
         ],
 
-         "Avanzado":[
+  "Avanzado":[
            
-             {"pregunta": "¿Cuál es la diferencia entre el modelo de caja estándar y el modelo de caja alternativo en CSS?",
-             "opciones": ["A) No hay diferencia", "B) El alternativo incluye padding y border en width", "C) El estándar es más rápido", "D) El alternativo solo funciona en HTML5"],
-             "respuesta_correcta": "B"},
-             {"pregunta": "¿Qué significa el valor 'inherit' en CSS?",
-             "opciones": ["A) Usa el valor por defecto", "B) Hereda el valor del elemento padre", "C) Usa el valor inicial", "D) Usa el valor automático"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre el modelo de caja estándar y el modelo de caja alternativo en CSS?",
+   "opciones": ["A) No hay diferencia", "B) El alternativo incluye padding y border en width", "C) El estándar es más rápido", "D) El alternativo solo funciona en HTML5"],
+   "respuesta_correcta": "B"},
+            
+  {"pregunta": "¿Qué significa el valor 'inherit' en CSS?",
+   "opciones": ["A) Usa el valor por defecto", "B) Hereda el valor del elemento padre", "C) Usa el valor inicial", "D) Usa el valor automático"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la diferencia entre 'rem' y 'em' en CSS?",
-             "opciones": ["A) No hay diferencia", "B) rem es relativo al root, em al elemento padre", "C) em es más moderno", "D) rem solo funciona en HTML5"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'rem' y 'em' en CSS?",
+   "opciones": ["A) No hay diferencia", "B) rem es relativo al root, em al elemento padre", "C) em es más moderno", "D) rem solo funciona en HTML5"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué hace la propiedad 'z-index' en CSS?",
-             "opciones": ["A) Cambia el tamaño", "B) Controla el orden de apilamiento", "C) Modifica la opacidad", "D) Ajusta la posición horizontal"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué hace la propiedad 'z-index' en CSS?",
+   "opciones": ["A) Cambia el tamaño", "B) Controla el orden de apilamiento", "C) Modifica la opacidad", "D) Ajusta la posición horizontal"],
+   "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Cuál es la diferencia entre 'visibility: hidden' y 'display: none'?",
-             "opciones": ["A) No hay diferencia", "B) visibility mantiene el espacio, display no", "C) display es más rápido", "D) visibility solo funciona en imágenes"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'visibility: hidden' y 'display: none'?",
+   "opciones": ["A) No hay diferencia", "B) visibility mantiene el espacio, display no", "C) display es más rápido", "D) visibility solo funciona en imágenes"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué es el 'Critical Rendering Path' en el contexto de HTML/CSS?",
-             "opciones": ["A) El camino de archivos críticos", "B) La secuencia de pasos para renderizar una página", "C) Un tipo de CSS", "D) Una etiqueta HTML"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el 'Critical Rendering Path' en el contexto de HTML/CSS?",
+   "opciones": ["A) El camino de archivos críticos", "B) La secuencia de pasos para renderizar una página", "C) Un tipo de CSS", "D) Una etiqueta HTML"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la diferencia entre 'defer' y 'async' en la etiqueta script?",
-             "opciones": ["A) No hay diferencia", "B) defer ejecuta en orden, async no", "C) async es más lento", "D) defer solo funciona en HTML5"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'defer' y 'async' en la etiqueta script?",
+   "opciones": ["A) No hay diferencia", "B) defer ejecuta en orden, async no", "C) async es más lento", "D) defer solo funciona en HTML5"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué es el 'Shadow DOM' en el contexto de Web Components?",
-             "opciones": ["A) Un DOM oculto", "B) Un DOM encapsulado y aislado", "C) Un DOM más rápido", "D) Un DOM para sombras"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el 'Shadow DOM' en el contexto de Web Components?",
+   "opciones": ["A) Un DOM oculto", "B) Un DOM encapsulado y aislado", "C) Un DOM más rápido", "D) Un DOM para sombras"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la diferencia entre 'progressive enhancement' y 'graceful degradation'?",
-             "opciones": ["A) No hay diferencia", "B) Progressive parte de básico hacia avanzado", "C) Graceful es más moderno", "D) Progressive solo funciona en móviles"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'progressive enhancement' y 'graceful degradation'?",
+   "opciones": ["A) No hay diferencia", "B) Progressive parte de básico hacia avanzado", "C) Graceful es más moderno", "D) Progressive solo funciona en móviles"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué hace la declaración '@supports' en CSS?",
-             "opciones": ["A) Importa archivos", "B) Verifica soporte de propiedades CSS", "C) Define variables", "D) Crea animaciones"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué hace la declaración '@supports' en CSS?",
+   "opciones": ["A) Importa archivos", "B) Verifica soporte de propiedades CSS", "C) Define variables", "D) Crea animaciones"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la diferencia entre 'box-sizing: content-box' y 'box-sizing: border-box'?",
-             "opciones": ["A) No hay diferencia", "B) border-box incluye padding y border en las dimensiones", "C) content-box es más rápido", "D) border-box solo funciona en divs"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'box-sizing: content-box' y 'box-sizing: border-box'?",
+   "opciones": ["A) No hay diferencia", "B) border-box incluye padding y border en las dimensiones", "C) content-box es más rápido", "D) border-box solo funciona en divs"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué es el 'CSS Containment' y para qué se utiliza?",
-             "opciones": ["A) Para contener errores", "B) Para optimizar el rendimiento limitando el alcance de los estilos", "C) Para contener texto", "D) Para crear contenedores"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el 'CSS Containment' y para qué se utiliza?",
+   "opciones": ["A) Para contener errores", "B) Para optimizar el rendimiento limitando el alcance de los estilos", "C) Para contener texto", "D) Para crear contenedores"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la diferencia entre 'undefined' y 'null' en el contexto de atributos HTML?",
-             "opciones": ["A) No hay diferencia", "B) undefined significa no definido, null significa valor nulo", "C) null es más rápido", "D) undefined solo existe en JavaScript"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'undefined' y 'null' en el contexto de atributos HTML?",
+   "opciones": ["A) No hay diferencia", "B) undefined significa no definido, null significa valor nulo", "C) null es más rápido", "D) undefined solo existe en JavaScript"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué significa 'FOUC' (Flash of Unstyled Content)?",
-             "opciones": ["A) Un error de JavaScript", "B) Contenido que aparece sin estilos antes de cargar CSS", "C) Un tipo de animación", "D) Un protocolo de red"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué significa 'FOUC' (Flash of Unstyled Content)?",
+   "opciones": ["A) Un error de JavaScript", "B) Contenido que aparece sin estilos antes de cargar CSS", "C) Un tipo de animación", "D) Un protocolo de red"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Cuál es la diferencia entre 'HTTP/1.1' y 'HTTP/2' en el contexto de carga de recursos web?",
-             "opciones": ["A) No hay diferencia", "B) HTTP/2 permite multiplexación y compresión de cabeceras", "C) HTTP/1.1 es más rápido", "D) HTTP/2 solo funciona con HTTPS"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'HTTP/1.1' y 'HTTP/2' en el contexto de carga de recursos web?",
+   "opciones": ["A) No hay diferencia", "B) HTTP/2 permite multiplexación y compresión de cabeceras", "C) HTTP/1.1 es más rápido", "D) HTTP/2 solo funciona con HTTPS"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué es el 'CSS Grid' y cómo se diferencia de 'Flexbox'?",
-             "opciones": ["A) Son lo mismo", "B) Grid es bidimensional, Flexbox unidimensional", "C) Flexbox es más moderno", "D) Grid solo funciona en desktop"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el 'CSS Grid' y cómo se diferencia de 'Flexbox'?",
+   "opciones": ["A) Son lo mismo", "B) Grid es bidimensional, Flexbox unidimensional", "C) Flexbox es más moderno",  "D) Grid solo funciona en desktop"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué hace la propiedad 'will-change' en CSS?",
-             "opciones": ["A) Cambia colores", "B) Optimiza animaciones informando al navegador", "C) Modifica el DOM", "D) Cambia el tamaño"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué hace la propiedad 'will-change' en CSS?",
+   "opciones": ["A) Cambia colores", "B) Optimiza animaciones informando al navegador", "C) Modifica el DOM", "D) Cambia el tamaño"],
+   "respuesta_correcta": "B"},
   
-             { "pregunta": "¿Cuál es la diferencia entre 'CSS Custom Properties' y 'SASS variables'?",
-             "opciones": ["A) No hay diferencia", "B) CSS Custom Properties son nativas y dinámicas", "C) SASS es más rápido", "D) CSS Custom Properties solo funcionan en Chrome"],
-             "respuesta_correcta": "B"},
+  { "pregunta": "¿Cuál es la diferencia entre 'CSS Custom Properties' y 'SASS variables'?",
+   "opciones": ["A) No hay diferencia", "B) CSS Custom Properties son nativas y dinámicas", "C) SASS es más rápido", "D) CSS Custom Properties solo funcionan en Chrome"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué es el 'CSS Houdini' y qué problema resuelve?",
-             "opciones": ["A) Un framework CSS", "B) APIs para extender el motor de CSS", "C) Un preprocesador", "D) Un sistema de grid"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el 'CSS Houdini' y qué problema resuelve?",
+   "opciones": ["A) Un framework CSS", "B) APIs para extender el motor de CSS", "C) Un preprocesador", "D) Un sistema de grid"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Cuál es la diferencia entre 'preload', 'prefetch' y 'preconnect'?",
-             "opciones": ["A) Son sinónimos", "B) Diferentes estrategias de optimización de recursos", "C) Solo funcionan en Chrome", "D) Son obsoletos"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'preload', 'prefetch' y 'preconnect'?",
+   "opciones": ["A) Son sinónimos", "B) Diferentes estrategias de optimización de recursos", "C) Solo funcionan en Chrome", "D) Son obsoletos"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué significa 'specificity' en CSS y cómo se calcula?",
-             "opciones": ["A) La velocidad de carga", "B) El peso de los selectores para determinar precedencia", "C) El tamaño del archivo CSS", "D) La compatibilidad del navegador"],
-             "respuesta_correcta": "B"},
-             {"pregunta": "¿Qué es el 'CSS Logical Properties' y por qué es importante?",
-             "opciones": ["A) Propiedades más rápidas", "B) Propiedades que se adaptan a diferentes direcciones de escritura", "C) Propiedades lógicas de JavaScript", "D) Propiedades obsoletas"],
-             "respuesta_correcta": "B"},
-             {"pregunta": "¿Cuál es la diferencia entre 'layout', 'paint' y 'composite' en el rendering pipeline?",
-             "opciones": ["A) Son sinónimos", "B) Diferentes fases del proceso de renderizado", "C) Solo funcionan en móviles",  "D) Son tipos de CSS"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué significa 'specificity' en CSS y cómo se calcula?",
+   "opciones": ["A) La velocidad de carga", "B) El peso de los selectores para determinar precedencia", "C) El tamaño del archivo CSS", "D) La compatibilidad del navegador"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué es el 'CSS Subgrid' y cómo mejora CSS Grid?",
-             "opciones": ["A) Un grid más pequeño", "B) Permite que los elementos hijos hereden el grid del padre", "C) Un grid más rápido", "D) Un grid obsoleto"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el 'CSS Logical Properties' y por qué es importante?",
+   "opciones": ["A) Propiedades más rápidas", "B) Propiedades que se adaptan a diferentes direcciones de escritura", "C) Propiedades lógicas de JavaScript", "D) Propiedades obsoletas"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Cuál es la diferencia entre 'srcset' y 'picture' para imágenes responsivas?",
-             "opciones": ["A) Son idénticos", "B) srcset para densidad/tamaño, picture para art direction", "C) picture es obsoleto", "D) srcset solo funciona en Chrome"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'layout', 'paint' y 'composite' en el rendering pipeline?",
+   "opciones": ["A) Son sinónimos", "B) Diferentes fases del proceso de renderizado", "C) Solo funcionan en móviles",  "D) Son tipos de CSS"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué es el 'CSS Scroll Snap' y cuándo se utiliza?",
-             "opciones": ["A) Para romper el scroll", "B) Para controlar el comportamiento del scroll", "C) Para desactivar el scroll", "D) Para acelerar el scroll"],
-             "respuesta_correcta": "B"},
-             {"pregunta": "¿Cuál es la diferencia entre 'Web Workers' y 'Service Workers'?",
-             "opciones": ["A) Son lo mismo", "B) Web Workers para procesamiento, Service Workers para cache/proxy", "C) Service Workers es obsoleto", "D) Web Workers solo funciona offline"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el 'CSS Subgrid' y cómo mejora CSS Grid?",
+   "opciones": ["A) Un grid más pequeño", "B) Permite que los elementos hijos hereden el grid del padre", "C) Un grid más rápido", "D) Un grid obsoleto"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué significa 'Above the fold' en el contexto de optimización web?",
-             "opciones": ["A) Contenido plegado", "B) Contenido visible sin hacer scroll", "C) Contenido oculto", "D) Contenido en la parte superior"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 'srcset' y 'picture' para imágenes responsivas?",
+   "opciones": ["A) Son idénticos", "B) srcset para densidad/tamaño, picture para art direction", "C) picture es obsoleto", "D) srcset solo funciona en Chrome"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Cuál es la diferencia entre 'CSS-in-JS' y 'CSS Modules'?",
-             "opciones": ["A) Son idénticos", "B) Diferentes enfoques para encapsular estilos", "C) CSS-in-JS es obsoleto", "D) CSS Modules solo funciona en React"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el 'CSS Scroll Snap' y cuándo se utiliza?",
+   "opciones": ["A) Para romper el scroll", "B) Para controlar el comportamiento del scroll", "C) Para desactivar el scroll", "D) Para acelerar el scroll"],
+   "respuesta_correcta": "B"},
+            
+  {"pregunta": "¿Cuál es la diferencia entre 'Web Workers' y 'Service Workers'?",
+   "opciones": ["A) Son lo mismo", "B) Web Workers para procesamiento, Service Workers para cache/proxy", "C) Service Workers es obsoleto", "D) Web Workers solo funciona offline"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué es el 'Intersection Observer API' y para qué se utiliza?",
-             "opciones": ["A) Para observar intersecciones de líneas", "B) Para detectar cuando elementos entran/salen del viewport", "C) Para observar el DOM", "D) Para detectar clics"],
-             "respuesta_correcta": "B"}
+  {"pregunta": "¿Qué significa 'Above the fold' en el contexto de optimización web?",
+   "opciones": ["A) Contenido plegado", "B) Contenido visible sin hacer scroll", "C) Contenido oculto", "D) Contenido en la parte superior"],
+   "respuesta_correcta": "B"},
+             
+  {"pregunta": "¿Cuál es la diferencia entre 'CSS-in-JS' y 'CSS Modules'?",
+   "opciones": ["A) Son idénticos", "B) Diferentes enfoques para encapsular estilos", "C) CSS-in-JS es obsoleto", "D) CSS Modules solo funciona en React"],
+   "respuesta_correcta": "B"},
+             
+  {"pregunta": "¿Qué es el 'Intersection Observer API' y para qué se utiliza?",
+   "opciones": ["A) Para observar intersecciones de líneas", "B) Para detectar cuando elementos entran/salen del viewport", "C) Para observar el DOM", "D) Para detectar clics"],
+   "respuesta_correcta": "B"}
        ]
       },
-    "Fundamentos_de_Hardware":{
-        "nombre": "Fundamentos_de_Hardware",
-        "básico": [
-             {"pregunta": "¿Cuál es la función principal de la CPU?",
-             "opciones": ["A) Almacenar datos", "B) Procesar instrucciones", "C) Mostrar imágenes", "D) Conectar a internet"],
-             "respuesta_correcta": "B"},
+  
+  "Fundamentos_de_Hardware":{
+  "nombre": "Fundamentos_de_Hardware",
+  "básico": [
+  
+  {"pregunta": "¿Cuál es la función principal de la CPU?",
+   "opciones": ["A) Almacenar datos", "B) Procesar instrucciones", "C) Mostrar imágenes", "D) Conectar a internet"],
+   "respuesta_correcta": "B"},
 
-             {"pregunta": "¿Qué significa RAM?",
-             "opciones": ["A) Random Access Memory", "B) Read Access Memory", "C) Rapid Access Memory", "D) Remote Access Memory"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué significa RAM?",
+   "opciones": ["A) Random Access Memory", "B) Read Access Memory", "C) Rapid Access Memory", "D) Remote Access Memory"],
+   "respuesta_correcta": "A"},
              
-             {"pregunta": "¿Cuál es la función principal del disco duro?",
-             "opciones": ["A) Procesar datos", "B) Almacenar datos permanentemente", "C) Mostrar imágenes", "D) Conectar dispositivos"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la función principal del disco duro?",
+   "opciones": ["A) Procesar datos", "B) Almacenar datos permanentemente", "C) Mostrar imágenes", "D) Conectar dispositivos"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué significa ROM?",
-             "opciones": ["A) Random Only Memory", "B) Read Only Memory", "C) Rapid Only Memory", "D) Remote Only Memory"],
-             "respuesta_correcta": "B"},
-             {"pregunta": "¿Cuál es la función de la fuente de alimentación?",
-             "opciones": ["A) Procesar datos", "B) Almacenar información", "C) Suministrar energía eléctrica", "D) Conectar a internet"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Qué significa ROM?",
+   "opciones": ["A) Random Only Memory", "B) Read Only Memory", "C) Rapid Only Memory", "D) Remote Only Memory"],
+   "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Cuál es la función de la fuente de alimentación?",
+   "opciones": ["A) Procesar datos", "B) Almacenar información", "C) Suministrar energía eléctrica", "D) Conectar a internet"],
+   "respuesta_correcta": "C"},
              
-             {"pregunta": "¿Qué es la placa base?",
-             "opciones": ["A) Un tipo de memoria", "B) El circuito principal que conecta todos los componentes", "C) Un dispositivo de almacenamiento", "D) Un tipo de procesador"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es la placa base?",
+   "opciones": ["A) Un tipo de memoria", "B) El circuito principal que conecta todos los componentes", "C) Un dispositivo de almacenamiento", "D) Un tipo de procesador"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Cuál es la función principal de la tarjeta gráfica?",
-             "opciones": ["A) Almacenar datos", "B) Procesar audio", "C) Procesar y mostrar imágenes", "D) Conectar a internet"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la función principal de la tarjeta gráfica?",
+   "opciones": ["A) Almacenar datos", "B) Procesar audio", "C) Procesar y mostrar imágenes", "D) Conectar a internet"],
+   "respuesta_correcta": "C"},
              
-             {"pregunta": "¿Qué es un puerto USB?",
-             "opciones": ["A) Un tipo de memoria", "B) Una interfaz para conectar dispositivos", "C) Un procesador", "D) Un tipo de disco"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es un puerto USB?",
+   "opciones": ["A) Un tipo de memoria", "B) Una interfaz para conectar dispositivos", "C) Un procesador", "D) Un tipo de disco"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Cuál es la diferencia principal entre HDD y SSD?",
-             "opciones": ["A) El color", "B) El precio", "C) HDD usa discos mecánicos, SSD usa memoria flash", "D) El tamaño"],
-             "respuesta_correcta": "C"},
+  {"pregunta": "¿Cuál es la diferencia principal entre HDD y SSD?",
+   "opciones": ["A) El color", "B) El precio", "C) HDD usa discos mecánicos, SSD usa memoria flash", "D) El tamaño"],
+   "respuesta_correcta": "C"},
              
-             {"pregunta": "¿Qué significa BIOS?",
-             "opciones": ["A) Basic Input/Output System", "B) Binary Input/Output System", "C) Boot Input/Output System", "D) Base Input/Output System"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué significa BIOS?",
+   "opciones": ["A) Basic Input/Output System", "B) Binary Input/Output System", "C) Boot Input/Output System", "D) Base Input/Output System"],
+   "respuesta_correcta": "A"},
              
-             {"pregunta": "¿Cuál es la función del ventilador en un PC?",
-             "opciones": ["A) Hacer ruido", "B) Refrigerar los componentes", "C) Procesar datos", "D) Almacenar información"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la función del ventilador en un PC?",
+   "opciones": ["A) Hacer ruido", "B) Refrigerar los componentes", "C) Procesar datos", "D) Almacenar información"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué es la memoria caché?",
-             "opciones": ["A) Memoria de almacenamiento permanente", "B) Memoria de alta velocidad para acceso rápido", "C) Memoria para gráficos", "D) Memoria para sonido"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es la memoria caché?",
+   "opciones": ["A) Memoria de almacenamiento permanente", "B) Memoria de alta velocidad para acceso rápido", "C) Memoria para gráficos", "D) Memoria para sonido"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Cuál es la unidad básica de información?",
-             "opciones": ["A) Byte", "B) Bit", "C) Kilobyte", "D) Megabyte"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la unidad básica de información?",
+   "opciones": ["A) Byte", "B) Bit", "C) Kilobyte", "D) Megabyte"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué significa Hz en el contexto de procesadores?",
-             "opciones": ["A) Hercios - frecuencia de reloj", "B) Horas de funcionamiento", "C) Tamaño del procesador", "D) Número de núcleos"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué significa Hz en el contexto de procesadores?",
+   "opciones": ["A) Hercios - frecuencia de reloj", "B) Horas de funcionamiento", "C) Tamaño del procesador", "D) Número de núcleos"],
+   "respuesta_correcta": "A"},
              
-             {"pregunta": "¿Cuál es la función del bus de datos?",
-             "opciones": ["A) Almacenar datos", "B) Transportar información entre componentes", "C) Procesar datos", "D) Mostrar datos"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la función del bus de datos?",
+   "opciones": ["A) Almacenar datos", "B) Transportar información entre componentes", "C) Procesar datos", "D) Mostrar datos"],
+   "respuesta_correcta": "B"},
              
-             {"pregunta": "¿Qué es un socket de procesador?",
-             "opciones": ["A) Un tipo de memoria", "B) El conector donde se instala la CPU", "C) Un cable", "D) Un tipo de disco"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es un socket de procesador?",
+   "opciones": ["A) Un tipo de memoria", "B) El conector donde se instala la CPU", "C) Un cable", "D) Un tipo de disco"],
+   "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Cuál es la función de la tarjeta de sonido?",
-             "opciones": ["A) Procesar video", "B) Procesar y reproducir audio", "C) Almacenar música", "D) Conectar altavoces"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la función de la tarjeta de sonido?",
+   "opciones": ["A) Procesar video", "B) Procesar y reproducir audio", "C) Almacenar música", "D) Conectar altavoces"],
+   "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Qué significa GPU?",
-             "opciones": ["A) General Processing Unit", "B) Graphics Processing Unit", "C) Game Processing Unit", "D) Global Processing Unit"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué significa GPU?",
+   "opciones": ["A) General Processing Unit", "B) Graphics Processing Unit", "C) Game Processing Unit", "D) Global Processing Unit"],
+   "respuesta_correcta": "B"},
   
-             { "pregunta": "¿Cuál es la función de los puertos de E/S?",
-             "opciones": ["A) Almacenar datos", "B) Conectar dispositivos externos", "C) Procesar información", "D) Mostrar imágenes"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la función de los puertos de E/S?",
+   "opciones": ["A) Almacenar datos", "B) Conectar dispositivos externos", "C) Procesar información", "D) Mostrar imágenes"],
+   "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Qué es un driver?",
-             "opciones": ["A) Un componente físico", "B) Software que permite al SO comunicarse con hardware", "C) Un tipo de memoria", "D) Un cable"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es un driver?",
+    "opciones": ["A) Un componente físico", "B) Software que permite al SO comunicarse con hardware", "C) Un tipo de memoria", "D) Un cable"],
+    "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Cuántos bits tiene un byte?",
-             "opciones": ["A) 4", "B) 8", "C) 16", "D) 32"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuántos bits tiene un byte?",
+  "opciones": ["A) 4", "B) 8", "C) 16", "D) 32"],
+  "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Qué es el overclocking?",
-             "opciones": ["A) Apagar el ordenador", "B) Aumentar la frecuencia de funcionamiento", "C) Limpiar el ordenador", "D) Instalar software"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es el overclocking?",
+    "opciones": ["A) Apagar el ordenador", "B) Aumentar la frecuencia de funcionamiento", "C) Limpiar el ordenador", "D) Instalar software"],
+    "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Cuál es la función del chipset?",
-             "opciones": ["A) Procesar gráficos", "B) Controlar la comunicación entre componentes", "C) Almacenar datos", "D) Reproducir sonido"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la función del chipset?",
+    "opciones": ["A) Procesar gráficos", "B) Controlar la comunicación entre componentes", "C) Almacenar datos", "D) Reproducir sonido"],
+    "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Qué es la latencia en memoria?",
-             "opciones": ["A) El tamaño de la memoria", "B) El tiempo de respuesta", "C) El precio", "D) La velocidad máxima"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es la latencia en memoria?",
+   "opciones": ["A) El tamaño de la memoria", "B) El tiempo de respuesta", "C) El precio", "D) La velocidad máxima"],
+   "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Cuál es la diferencia entre 32 bits y 64 bits?",
-             "opciones": ["A) El precio", "B) La cantidad de datos procesados simultáneamente", "C) El tamaño físico", "D) La velocidad"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la diferencia entre 32 bits y 64 bits?",
+   "opciones": ["A) El precio", "B) La cantidad de datos procesados simultáneamente", "C) El tamaño físico", "D) La velocidad"],
+   "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Qué es un periférico?",
-             "opciones": ["A) Un componente interno", "B) Un dispositivo externo conectado al PC", "C) Un tipo de memoria", "D) Un software"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es un periférico?",
+   "opciones": ["A) Un componente interno", "B) Un dispositivo externo conectado al PC", "C) Un tipo de memoria", "D)Un software"],
+   "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Cuál es la función de la CMOS?",
-             "opciones": ["A) Procesar datos", "B) Almacenar configuración de BIOS", "C) Mostrar imágenes", "D) Reproducir sonido"],
-             "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la función de la CMOS?",
+   "opciones": ["A) Procesar datos", "B) Almacenar configuración de BIOS", "C) Mostrar imágenes", "D) Reproducir sonido"],
+   "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Qué significa POST?",
-             "opciones": ["A) Power On Self Test", "B) Program On Self Test", "C) Process On Self Test", "D) Print On Self Test"],
-             "respuesta_correcta": "A"},
+  {"pregunta": "¿Qué significa POST?",
+    "opciones": ["A) Power On Self Test", "B) Program On Self Test", "C) Process On Self Test", "D) Print On Self Test"],
+    "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Cuál es la función del disipador de calor?",
-     "opciones": ["A) Generar calor", "B) Eliminar el calor de los componentes", "C) Procesar datos", "D) Almacenar información"],
-     "respuesta_correcta": "B"},
+  {"pregunta": "¿Cuál es la función del disipador de calor?",
+    "opciones": ["A) Generar calor", "B) Eliminar el calor de los componentes", "C) Procesar datos", "D) Almacenar información"],
+    "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es un jumper?",
-      "opciones": ["A) Un cable largo", "B) Un pequeño conector para configurar hardware", "C) Un tipo de memoria", "D) Un procesador"],
-      "respuesta_correcta": "B"}
+  {"pregunta": "¿Qué es un jumper?",
+    "opciones": ["A) Un cable largo", "B) Un pequeño conector para configurar hardware", "C) Un tipo de memoria", "D) Un procesador"],
+    "respuesta_correcta": "B"}
     ],
 
-        "Intermedio":[
+  "Intermedio":[
             
   {"pregunta": "¿Cuál es la diferencia entre memoria volátil y no volátil?",
     "opciones": ["A) El precio", "B) La velocidad", "C) La retención de datos sin energía", "D) El tamaño"],
@@ -506,11 +513,11 @@
     "opciones": ["A) Un tipo de memoria", "B) El bus que conecta CPU con memoria y chipset", "C) Un protocolo de red", "D) Un tipo de disco"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre DDR3 y DDR4?",
+  {"pregunta": "¿Cuál es la diferencia entre DDR3 y DDR4?",
     "opciones": ["A) DDR4 es más rápida y eficiente", "B) DDR3 es más moderna", "C) No hay diferencia", "D) DDR4 es más barata"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el multiplexado en buses de datos?",
+  {"pregunta": "¿Qué es el multiplexado en buses de datos?",
     "opciones": ["A) Duplicar datos", "B) Compartir líneas para diferentes señales", "C) Acelerar datos", "D) Comprimir datos"],
     "respuesta_correcta": "B"},
 
@@ -518,229 +525,229 @@
     "opciones": ["A) Almacenar datos", "B) Gestionar el acceso a la memoria RAM", "C) Procesar gráficos", "D) Controlar disco duro"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué significa RAID y cuál es su propósito?",
+  {"pregunta": "¿Qué significa RAID y cuál es su propósito?",
     "opciones": ["A) Rapid Access In Disks - velocidad", "B) Redundant Array of Independent Disks - redundancia/rendimiento", "C) Random Access In Data - acceso aleatorio", "D) Reliable Access In Drives - confiabilidad"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre caché L1, L2 y L3?",
+  {"pregunta": "¿Cuál es la diferencia entre caché L1, L2 y L3?",
     "opciones": ["A) El precio", "B) La velocidad y proximidad al procesador", "C) El tamaño físico", "D) La marca"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el thermal throttling?",
+  {"pregunta": "¿Qué es el thermal throttling?",
     "opciones": ["A) Acelerar el procesador", "B) Reducir rendimiento por temperatura", "C) Limpiar el procesador", "D) Cambiar ventilador"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre SATA y NVMe?",
+  {"pregunta": "¿Cuál es la diferencia entre SATA y NVMe?",
     "opciones": ["A) SATA es más moderno", "B) NVMe es más rápido y usa PCIe", "C) No hay diferencia", "D) SATA es más caro"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el TDP (Thermal Design Power)?",
+  {"pregunta": "¿Qué es el TDP (Thermal Design Power)?",
     "opciones": ["A) Temperatura máxima", "B) Potencia térmica de diseño", "C) Velocidad del procesador", "D) Tamaño del procesador"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función del northbridge y southbridge?",
+  {"pregunta": "¿Cuál es la función del northbridge y southbridge?",
     "opciones": ["A) Controlar red", "B) Northbridge: CPU/RAM/GPU, Southbridge: I/O", "C) Controlar sonido", "D) Gestionar energía"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es la arquitectura Von Neumann?",
+  {"pregunta": "¿Qué es la arquitectura Von Neumann?",
     "opciones": ["A) Un tipo de procesador", "B) Arquitectura donde programa y datos comparten memoria", "C) Un protocolo de red", "D) Un tipo de memoria"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre interrupciones por hardware y software?",
+  {"pregunta": "¿Cuál es la diferencia entre interrupciones por hardware y software?",
     "opciones": ["A) El precio", "B) Hardware es externo, software es interno", "C) La velocidad", "D) El tamaño"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el factor de forma en placas base?",
+  {"pregunta": "¿Qué es el factor de forma en placas base?",
     "opciones": ["A) El color", "B) Las dimensiones y diseño físico", "C) La velocidad", "D) El precio"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre memoria ECC y no-ECC?",
+  {"pregunta": "¿Cuál es la diferencia entre memoria ECC y no-ECC?",
     "opciones": ["A) ECC detecta y corrige errores", "B) ECC es más barata", "C) No hay diferencia", "D) ECC es más lenta"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el bus PCIe y cuáles son sus versiones?",
+  {"pregunta": "¿Qué es el bus PCIe y cuáles son sus versiones?",
     "opciones": ["A) Un tipo de memoria", "B) Bus de expansión con versiones 1.0 a 5.0", "C) Un protocolo de red", "D) Un tipo de disco"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función del IMC (Integrated Memory Controller)?",
+  {"pregunta": "¿Cuál es la función del IMC (Integrated Memory Controller)?",
     "opciones": ["A) Controlar gráficos", "B) Controlar acceso a memoria desde CPU", "C) Controlar sonido", "D) Controlar red"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el hyperthreading?",
+  {"pregunta": "¿Qué es el hyperthreading?",
     "opciones": ["A) Múltiples procesadores", "B) Tecnología que simula núcleos adicionales", "C) Memoria más rápida", "D) Refrigeración mejorada"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre memoria dual channel y single channel?",
+  {"pregunta": "¿Cuál es la diferencia entre memoria dual channel y single channel?",
     "opciones": ["A) Dual channel ofrece mayor ancho de banda", "B) Single channel es más rápido", "C) No hay diferencia", "D) Dual channel es más barato"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el VRM (Voltage Regulator Module)?",
+  {"pregunta": "¿Qué es el VRM (Voltage Regulator Module)?",
     "opciones": ["A) Un tipo de memoria", "B) Circuito que regula voltaje al procesador", "C) Un protocolo", "D) Un tipo de disco"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función de los condensadores en una placa base?",
+  {"pregunta": "¿Cuál es la función de los condensadores en una placa base?",
     "opciones": ["A) Procesar datos", "B) Estabilizar corriente eléctrica", "C) Almacenar datos", "D) Generar calor"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el UEFI y cómo se diferencia del BIOS?",
+  {"pregunta": "¿Qué es el UEFI y cómo se diferencia del BIOS?",
     "opciones": ["A) Son idénticos", "B) UEFI es más moderno con interfaz gráfica", "C) BIOS es más rápido", "D) UEFI es más barato"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre procesadores RISC y CISC?",
+  {"pregunta": "¿Cuál es la diferencia entre procesadores RISC y CISC?",
     "opciones": ["A) RISC: instrucciones simples, CISC: instrucciones complejas", "B) RISC es más barato", "C) CISC es más moderno", "D) No hay diferencia"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el CAS latency en memoria RAM?",
+  {"pregunta": "¿Qué es el CAS latency en memoria RAM?",
     "opciones": ["A) Velocidad máxima", "B) Tiempo de acceso a columna", "C) Tamaño de memoria", "D) Tipo de memoria"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función del DMA (Direct Memory Access)?",
+  {"pregunta": "¿Cuál es la función del DMA (Direct Memory Access)?",
     "opciones": ["A) Acceso directo sin CPU", "B) Memoria más rápida", "C) Procesamiento gráfico", "D) Control de red"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es la tecnología SLI/CrossFire?",
+  {"pregunta": "¿Qué es la tecnología SLI/CrossFire?",
     "opciones": ["A) Tipo de memoria", "B) Usar múltiples tarjetas gráficas", "C) Protocolo de red", "D) Tipo de disco"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre procesadores de 14nm y 7nm?",
+  {"pregunta": "¿Cuál es la diferencia entre procesadores de 14nm y 7nm?",
     "opciones": ["A) 7nm es más eficiente y rápido", "B) 14nm es más moderno", "C) No hay diferencia", "D) 14nm es más barato"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el buffer overflow en el contexto de hardware?",
+  {"pregunta": "¿Qué es el buffer overflow en el contexto de hardware?",
     "opciones": ["A) Memoria llena", "B) Desbordamiento de búfer de datos", "C) Disco lleno", "D) Procesador lento"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función del cristal de cuarzo en una placa base?",
+  {"pregunta": "¿Cuál es la función del cristal de cuarzo en una placa base?",
     "opciones": ["A) Decoración", "B) Generar señal de reloj", "C) Refrigeración", "D) Almacenamiento"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el SPD (Serial Presence Detect) en memoria RAM?",
+  {"pregunta": "¿Qué es el SPD (Serial Presence Detect) en memoria RAM?",
     "opciones": ["A) Velocidad de memoria", "B) Chip con información de configuración", "C) Tipo de memoria", "D) Protocolo de datos"],
     "respuesta_correcta": "B"}
     ],
 
-    "Avanzado":[
-    {"pregunta": "¿Qué es el pipeline en la arquitectura de procesadores?",
+  "Avanzado":[
+  {"pregunta": "¿Qué es el pipeline en la arquitectura de procesadores?",
     "opciones": ["A) Un tipo de memoria", "B) Una técnica de paralelización de instrucciones", "C) Un protocolo de red", "D) Un tipo de bus"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre coherencia de caché y consistencia de memoria?",
+  {"pregunta": "¿Cuál es la diferencia entre coherencia de caché y consistencia de memoria?",
     "opciones": ["A) Son sinónimos", "B) Coherencia es sobre cachés, consistencia sobre orden de operaciones", "C) Coherencia es más rápida", "D) Consistencia es obsoleta"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es la predicción de saltos en procesadores?",
+  {"pregunta": "¿Qué es la predicción de saltos en procesadores?",
     "opciones": ["A) Predecir errores", "B) Anticipar direcciones de salto condicional", "C) Predecir temperatura", "D) Predecir consumo"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función de los registros de propósito especial?",
+  {"pregunta": "¿Cuál es la función de los registros de propósito especial?",
     "opciones": ["A) Almacenar datos temporales", "B) Controlar estado y configuración del procesador", "C) Almacenar programas", "D) Conectar periféricos"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el fenómeno de aliasing en conversión A/D?",
+  {"pregunta": "¿Qué es el fenómeno de aliasing en conversión A/D?",
     "opciones": ["A) Mejora de calidad", "B) Distorsión por frecuencia de muestreo insuficiente", "C) Tipo de memoria", "D) Protocolo de datos"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre arquitectura superescalar y VLIW?",
+  {"pregunta": "¿Cuál es la diferencia entre arquitectura superescalar y VLIW?",
     "opciones": ["A) Superescalar: hardware dinámico, VLIW: compilador estático", "B) VLIW es más rápido", "C) Superescalar es obsoleto", "D) No hay diferencia"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el problema del hazard en pipelines?",
+  {"pregunta": "¿Qué es el problema del hazard en pipelines?",
     "opciones": ["A) Sobrecalentamiento", "B) Conflictos entre instrucciones que afectan rendimiento", "C) Falta de memoria", "D) Error de software"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función de la unidad de gestión de memoria (MMU)?",
+  {"pregunta": "¿Cuál es la función de la unidad de gestión de memoria (MMU)?",
     "opciones": ["A) Gestionar disco duro", "B) Traducir direcciones virtuales a físicas", "C) Controlar red", "D) Procesar gráficos"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el protocolo MESI en coherencia de caché?",
+  {"pregunta": "¿Qué es el protocolo MESI en coherencia de caché?",
     "opciones": ["A) Un tipo de memoria", "B) Protocolo de estados: Modified, Exclusive, Shared, Invalid", "C) Un bus de datos", "D) Un tipo de procesador"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre memoria asociativa y directa en caché?",
+  {"pregunta": "¿Cuál es la diferencia entre memoria asociativa y directa en caché?",
     "opciones": ["A) Asociativa permite ubicación flexible, directa ubicación fija", "B) Directa es más rápida", "C) Asociativa es más barata", "D) No hay diferencia"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es la tecnología de branch prediction tournament?",
+  {"pregunta": "¿Qué es la tecnología de branch prediction tournament?",
     "opciones": ["A) Competencia de procesadores", "B) Combinar múltiples predictores de salto", "C) Tipo de memoria", "D) Protocolo de red"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función del TLB (Translation Lookaside Buffer)?",
+  {"pregunta": "¿Cuál es la función del TLB (Translation Lookaside Buffer)?",
     "opciones": ["A) Almacenar datos", "B) Caché de traducciones de direcciones virtuales", "C) Controlar interrupciones", "D) Gestionar E/S"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es el fenómeno de write-back vs write-through en caché?",
+  {"pregunta": "¿Qué es el fenómeno de write-back vs write-through en caché?",
     "opciones": ["A) Write-back: escribe inmediatamente, write-through: escribe después", "B) Write-back: escribe después, write-through: escribe inmediatamente", "C) Son idénticos", "D) Write-back es obsoleto"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre interrupciones vectorizadas y no vectorizadas?",
+  {"pregunta": "¿Cuál es la diferencia entre interrupciones vectorizadas y no vectorizadas?",
     "opciones": ["A) Vectorizadas proporcionan dirección directa del manejador", "B) No vectorizadas son más rápidas", "C) Vectorizadas son obsoletas", "D) No hay diferencia"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el speculative execution en procesadores modernos?",
+  {"pregunta": "¿Qué es el speculative execution en procesadores modernos?",
     "opciones": ["A) Ejecución lenta", "B) Ejecutar instrucciones antes de saber si son necesarias", "C) Ejecución segura", "D) Ejecución paralela"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función de los registros de barrera de memoria?",
+  {"pregunta": "¿Cuál es la función de los registros de barrera de memoria?",
     "opciones": ["A) Acelerar memoria", "B) Controlar orden de accesos a memoria", "C) Aumentar capacidad", "D) Reducir latencia"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es la tecnología de clustered VLIW?",
+  {"pregunta": "¿Qué es la tecnología de clustered VLIW?",
     "opciones": ["A) Agrupar unidades funcionales en clusters", "B) Tipo de memoria", "C) Protocolo de red", "D) Tipo de bus"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Cuál es la diferencia entre coherencia débil y fuerte?",
+  {"pregunta": "¿Cuál es la diferencia entre coherencia débil y fuerte?",
     "opciones": ["A) Fuerte: orden estricto, débil: orden relajado", "B) Débil es más rápida", "C) Fuerte es obsoleta", "D) No hay diferencia"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el problema de false sharing en sistemas multiprocesador?",
+  {"pregunta": "¿Qué es el problema de false sharing en sistemas multiprocesador?",
     "opciones": ["A) Compartir datos falsos", "B) Diferentes procesadores acceden a la misma línea de caché", "C) Compartir memoria", "D) Error de software"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función de los buffers de reordenamiento?",
+  {"pregunta": "¿Cuál es la función de los buffers de reordenamiento?",
     "opciones": ["A) Ordenar datos", "B) Permitir ejecución fuera de orden manteniendo semántica", "C) Organizar archivos", "D) Controlar red"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es la tecnología de register renaming?",
+  {"pregunta": "¿Qué es la tecnología de register renaming?",
     "opciones": ["A) Cambiar nombres de variables", "B) Mapear registros lógicos a físicos para evitar dependencias", "C) Renombrar archivos", "D) Cambiar configuración"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre NUMA y UMA en arquitecturas multiprocesador?",
+  {"pregunta": "¿Cuál es la diferencia entre NUMA y UMA en arquitecturas multiprocesador?",
     "opciones": ["A) NUMA: acceso no uniforme, UMA: acceso uniforme", "B) UMA es más moderna", "C) NUMA es más barata", "D) No hay diferencia"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el fenómeno de thrashing en memoria virtual?",
+  {"pregunta": "¿Qué es el fenómeno de thrashing en memoria virtual?",
     "opciones": ["A) Memoria muy rápida", "B) Intercambio excesivo entre memoria y disco", "C) Memoria llena", "D) Error de hardware"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la función de los scoreboard en procesadores?",
+  {"pregunta": "¿Cuál es la función de los scoreboard en procesadores?",
     "opciones": ["A) Llevar puntuación", "B) Rastrear estado de instrucciones en ejecución", "C) Controlar temperatura", "D) Gestionar memoria"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es la tecnología de load-store architecture?",
+  {"pregunta": "¿Qué es la tecnología de load-store architecture?",
     "opciones": ["A) Arquitectura de almacenamiento", "B) Solo load/store acceden a memoria, otros operan en registros", "C) Arquitectura de carga", "D) Tipo de memoria"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre invalidación y actualización en protocolos de coherencia?",
+  {"pregunta": "¿Cuál es la diferencia entre invalidación y actualización en protocolos de coherencia?",
     "opciones": ["A) Invalidación marca como inválido, actualización sincroniza", "B) Actualización es más lenta", "C) Invalidación es obsoleta", "D) No hay diferencia"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Qué es el fenómeno de write allocate vs no-write allocate?",
+  {"pregunta": "¿Qué es el fenómeno de write allocate vs no-write allocate?",
     "opciones": ["A) Write allocate trae línea a caché en escritura, no-write allocate no", "B) Write allocate es más lento", "C) No-write allocate es obsoleto", "D) Son idénticos"],
     "respuesta_correcta": "A"},
   
-    {"pregunta": "¿Cuál es la función de las unidades de reserva en procesadores superescalares?",
+  {"pregunta": "¿Cuál es la función de las unidades de reserva en procesadores superescalares?",
     "opciones": ["A) Reservar memoria", "B) Mantener instrucciones esperando operandos", "C) Reservar espacio", "D) Controlar interrupciones"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Qué es la tecnología de tomasulo algorithm?",
+  {"pregunta": "¿Qué es la tecnología de tomasulo algorithm?",
     "opciones": ["A) Algoritmo de ordenamiento", "B) Algoritmo para ejecución fuera de orden con register renaming", "C) Algoritmo de búsqueda", "D) Algoritmo de encriptación"],
     "respuesta_correcta": "B"},
   
-    {"pregunta": "¿Cuál es la diferencia entre snooping y directory-based coherence?",
+  {"pregunta": "¿Cuál es la diferencia entre snooping y directory-based coherence?",
     "opciones": ["A) Snooping: monitoreo de bus, directory: información centralizada", "B) Directory es más lento", "C) Snooping es obsoleto", "D) No hay diferencia"],
     "respuesta_correcta": "A"}
-    ]
-    },
+   ]
+  },
 
     "MOP-Python":{
       "nombre": "MOP_Python",
@@ -1859,25 +1866,749 @@
 
   "Implantacion_SO":{
     "nombre":"Implantacion_Sistemas",
-    "Basico":[
+  "Basico":[
 
+  {"pregunta": "¿Qué es un sistema operativo?",
+    "opciones": ["A) Un programa de oficina", "B) Software que gestiona hardware y recursos del sistema", "C) Un navegador web", "D) Un antivirus"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función principal del kernel?",
+    "opciones": ["A) Mostrar ventanas", "B) Núcleo del SO que gestiona recursos básicos", "C) Conectar a internet", "D) Reproducir música"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué significa MBR?",
+    "opciones": ["A) Master Boot Record", "B) Main Boot Registry", "C) Memory Boot Record", "D) Master Base Record"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre 32 bits y 64 bits en un SO?",
+    "opciones": ["A) El precio", "B) La capacidad de procesamiento de datos", "C) El color", "D) La velocidad de internet"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una partición de disco?",
+    "opciones": ["A) Dividir físicamente el disco", "B) División lógica del espacio de almacenamiento", "C) Romper el disco", "D) Un tipo de archivo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función del BIOS?",
+    "opciones": ["A) Gestionar archivos", "B) Inicializar hardware y cargar el SO", "C) Conectar a internet", "D) Mostrar el escritorio"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un driver?",
+    "opciones": ["A) Un conductor", "B) Software que permite al SO comunicarse con hardware", "C) Un programa de juegos", "D) Un antivirus"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son los tipos de instalación de SO más comunes?",
+    "opciones": ["A) Solo nueva", "B) Nueva, actualización, reparación", "C) Solo actualización", "D) Solo reparación"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el registro de Windows?",
+    "opciones": ["A) Un libro de registros", "B) Base de datos que almacena configuraciones del sistema", "C) Un programa", "D) Un archivo de texto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función del administrador de tareas?",
+    "opciones": ["A) Crear tareas", "B) Monitorear y gestionar procesos en ejecución", "C) Programar citas", "D) Enviar emails"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una imagen de sistema?",
+    "opciones": ["A) Una foto del ordenador", "B) Copia exacta del estado de un sistema", "C) Una imagen de fondo", "D) Un archivo gráfico"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre FAT32 y NTFS?",
+    "opciones": ["A) No hay diferencia", "B) NTFS es más moderno y seguro", "C) FAT32 es más rápido", "D) NTFS es más antiguo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el arranque dual (dual boot)?",
+    "opciones": ["A) Arrancar dos veces", "B) Tener dos sistemas operativos en un mismo equipo", "C) Dos discos duros", "D) Dos usuarios"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función de un antivirus?",
+    "opciones": ["A) Limpiar pantalla", "B) Detectar y eliminar software malicioso", "C) Acelerar el ordenador", "D) Crear archivos"],
+    "respuesta_correcta": "B"},
+  {"pregunta": "¿Qué es una cuenta de usuario?",
+    "opciones": ["A) Una factura", "B) Perfil que define permisos y configuraciones", "C) Una aplicación", "D) Un archivo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre usuario estándar y administrador?",
+    "opciones": ["A) No hay diferencia", "B) Administrador tiene permisos completos", "C) Usuario estándar es más rápido", "D) Administrador es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el modo seguro en Windows?",
+    "opciones": ["A) Modo con contraseña", "B) Arranque con drivers básicos para diagnóstico", "C) Modo sin internet", "D) Modo silencioso"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función del firewall?",
+    "opciones": ["A) Apagar fuegos", "B) Controlar tráfico de red y seguridad", "C) Acelerar internet", "D) Mostrar páginas web"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la defragmentación?",
+    "opciones": ["A) Romper archivos", "B) Reorganizar datos en disco para mejorar rendimiento", "C) Eliminar archivos", "D) Comprimir archivos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función del panel de control?",
+    "opciones": ["A) Controlar televisión", "B) Acceder a configuraciones del sistema", "C) Jugar videojuegos", "D) Enviar emails"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un proceso en un sistema operativo?",
+    "opciones": ["A) Un procedimiento", "B) Un programa en ejecución", "C) Un archivo", "D) Un usuario"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre suspender e hibernar?",
+    "opciones": ["A) No hay diferencia", "B) Suspender: RAM activa, Hibernar: guardar en disco", "C) Suspender es más lento", "D) Hibernar es más rápido"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una actualización de sistema?",
+    "opciones": ["A) Comprar nuevo ordenador", "B) Instalar mejoras y correcciones del SO", "C) Cambiar de usuario", "D) Formatear disco"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función de los servicios de Windows?",
+    "opciones": ["A) Atender clientes", "B) Programas que se ejecutan en segundo plano", "C) Reparar ordenadores", "D) Vender software"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el escritorio remoto?",
+    "opciones": ["A) Un escritorio lejos", "B) Controlar un ordenador desde otro lugar", "C) Un mueble", "D) Una aplicación de dibujo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función de la papelera de reciclaje?",
+    "opciones": ["A) Reciclar papel", "B) Almacenar archivos eliminados temporalmente", "C) Limpiar pantalla", "D) Guardar fotos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un punto de restauración?",
+    "opciones": ["A) Un lugar de descanso", "B) Snapshot del sistema para poder revertir cambios", "C) Un restaurante", "D) Una aplicación"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre software libre y propietario?",
+    "opciones": ["A) No hay diferencia", "B) Libre: código abierto, Propietario: código cerrado", "C) Libre es más caro", "D) Propietario es gratis"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la virtualización?",
+    "opciones": ["A) Hacer virtual la realidad", "B) Crear sistemas virtuales sobre hardware físico", "C) Jugar videojuegos", "D) Conectar a internet"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función del gestor de arranque?",
+    "opciones": ["A) Gestionar empleados", "B) Cargar el sistema operativo al iniciar", "C) Arrancar coches", "D) Iniciar aplicaciones"],
+    "respuesta_correcta": "B"}
     ],
 
-    "Intermedio":[
+  "Intermedio":[
+  
+  {"pregunta": "¿Cuál es la diferencia entre UEFI y BIOS Legacy?",
+    "opciones": ["A) No hay diferencia", "B) UEFI es más moderno, soporta discos >2TB y arranque seguro", "C) BIOS es más rápido", "D) UEFI es más antiguo"],
+    "respuesta_correcta": "B"},
 
+  {"pregunta": "¿Qué es GPT y cómo se diferencia de MBR?",
+    "opciones": ["A) Son idénticos", "B) GPT: soporta más particiones y discos >2TB", "C) MBR es más moderno", "D) GPT es más lento"],
+    "respuesta_correcta": "B"},
 
+  {"pregunta": "¿Cuáles son los tipos de hipervisores?",
+    "opciones": ["A) Solo tipo 1", "B) Tipo 1 (bare metal) y Tipo 2 (hosted)", "C) Solo tipo 2", "D) Solo híbridos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Active Directory?",
+    "opciones": ["A) Un directorio activo", "B) Servicio de directorio para gestionar usuarios y recursos", "C) Una carpeta", "D) Un programa"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre Windows Server Core y con GUI?",
+    "opciones": ["A) No hay diferencia", "B) Core: sin interfaz gráfica, menor consumo de recursos", "C) Core es más lento", "D) GUI es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Subsystem for Linux (WSL)?",
+    "opciones": ["A) Un antivirus", "B) Capa de compatibilidad para ejecutar Linux en Windows", "C) Un navegador", "D) Un editor de texto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre políticas locales y de grupo?",
+    "opciones": ["A) No hay diferencia", "B) Locales: un equipo, Grupo: múltiples equipos en dominio", "C) Locales son más importantes", "D) Grupo es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el System File Checker (SFC)?",
+    "opciones": ["A) Un antivirus", "B) Herramienta para verificar y reparar archivos del sistema", "C) Un navegador", "D) Un editor"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre RAID 0, 1 y 5?",
+    "opciones": ["A) No hay diferencia", "B) RAID 0: velocidad, RAID 1: redundancia, RAID 5: velocidad+redundancia", "C) RAID 0 es más seguro", "D) RAID 5 es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Management Instrumentation (WMI)?",
+    "opciones": ["A) Un instrumento musical", "B) Interfaz para gestión y monitoreo del sistema", "C) Un antivirus", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre servicios y procesos?",
+    "opciones": ["A) Son sinónimos", "B) Servicios: programas de fondo, Procesos: instancias en ejecución", "C) Servicios son más rápidos", "D) Procesos son obsoletos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows PE (Preinstallation Environment)?",
+    "opciones": ["A) Un juego", "B) SO mínimo para despliegue y recuperación", "C) Un navegador", "D) Un editor"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre instalación limpia y actualización?",
+    "opciones": ["A) No hay diferencia", "B) Limpia: desde cero, Actualización: conserva configuraciones", "C) Limpia es más lenta", "D) Actualización es más segura"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Deployment Services (WDS)?",
+    "opciones": ["A) Un servicio de mensajería", "B) Servicio para desplegar SO por red", "C) Un antivirus", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre PowerShell y Command Prompt?",
+    "opciones": ["A) Son idénticos", "B) PowerShell: orientado a objetos, CMD: texto plano", "C) CMD es más moderno", "D) PowerShell es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Update for Business?",
+    "opciones": ["A) Un negocio", "B) Gestión centralizada de actualizaciones empresariales", "C) Una tienda", "D) Un juego"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre volumen básico y dinámico?",
+    "opciones": ["A) No hay diferencia", "B) Dinámico: características avanzadas como spanning y striping", "C) Básico es más moderno", "D) Dinámico es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Security Center?",
+    "opciones": ["A) Un centro comercial", "B) Componente que monitorea la seguridad del sistema", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre imagen sistema y backup?",
+    "opciones": ["A) Son sinónimos", "B) Imagen: copia exacta completa, Backup: archivos específicos", "C) Imagen es más lenta", "D) Backup es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Driver Framework (WDF)?",
+    "opciones": ["A) Un marco de fotos", "B) Modelo de programación para drivers", "C) Un navegador", "D) Un juego"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre autenticación y autorización?",
+    "opciones": ["A) Son sinónimos", "B) Autenticación: verificar identidad, Autorización: permisos", "C) Autenticación es más importante", "D) Autorización es obsoleta"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Event Log?",
+    "opciones": ["A) Un registro de eventos", "B) Sistema de auditoría y diagnóstico", "C) Un calendario", "D) Un juego"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre hot-plug y warm-plug?",
+    "opciones": ["A) No hay diferencia", "B) Hot-plug: sin reiniciar, Warm-plug: con reinicio parcial", "C) Hot-plug es más lento", "D) Warm-plug es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Management Console (MMC)?",
+    "opciones": ["A) Una consola de juegos", "B) Framework para herramientas administrativas", "C) Un navegador", "D) Un editor"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre dominio y grupo de trabajo?",
+    "opciones": ["A) Son sinónimos", "B) Dominio: gestión centralizada, Grupo de trabajo: descentralizada", "C) Dominio es más simple", "D) Grupo de trabajo es más seguro"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Registry Editor (regedit)?",
+    "opciones": ["A) Un editor de texto", "B) Herramienta para editar el registro del sistema", "C) Un navegador", "D) Un juego"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre fat client y thin client?",
+    "opciones": ["A) No hay diferencia", "B) Fat client: procesamiento local, Thin client: procesamiento remoto", "C) Fat client es más lento", "D) Thin client es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Performance Monitor?",
+    "opciones": ["A) Un monitor de pantalla", "B) Herramienta para monitorear rendimiento del sistema", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Cuál es la diferencia entre startup y logon scripts?",
+    "opciones": ["A) Son idénticos", "B) Startup: al iniciar sistema, Logon: al iniciar sesión usuario", "C) Startup es más rápido", "D) Logon es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows System Resource Manager (WSRM)?",
+    "opciones": ["A) Un gerente de recursos", "B) Herramienta para gestionar recursos del sistema", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"}
     ],
 
-    "Avanzado":[
+  "Avanzado":[
+    
+  {"pregunta": "¿Cuál es la diferencia entre kernel mode y user mode?",
+    "opciones": ["A) No hay diferencia", "B) Kernel mode: acceso completo al hardware, User mode: restringido", "C) User mode es más rápido", "D) Kernel mode es obsoleto"],
+    "respuesta_correcta": "B"},
 
+  {"pregunta": "¿Qué es el Windows Kernel Transaction Manager (KTM)?",
+    "opciones": ["A) Un gerente de transacciones", "B) Componente que proporciona transacciones a nivel de kernel", "C) Un navegador", "D) Un juego"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre symmetric y asymmetric multiprocessing?",
+    "opciones": ["A) Son sinónimos", "B) SMP: todos los procesadores iguales, AMP: procesadores especializados", "C) SMP es más lento", "D) AMP es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Driver Verifier?",
+    "opciones": ["A) Un verificador de documentos", "B) Herramienta para detectar errores en drivers", "C) Un antivirus", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre preemptive y cooperative multitasking?",
+    "opciones": ["A) No hay diferencia", "B) Preemptive: SO controla tiempo, Cooperative: programa cede control", "C) Preemptive es más lento", "D) Cooperative es más moderno"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Memory Manager?",
+    "opciones": ["A) Un gerente de memoria", "B) Componente que gestiona memoria virtual y física", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre thread y process scheduling?",
+    "opciones": ["A) Son idénticos", "B) Thread: hilos dentro de proceso, Process: procesos independientes", "C) Thread es más lento", "D) Process es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Object Manager?",
+    "opciones": ["A) Un gerente de objetos", "B) Componente que gestiona objetos del sistema", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre hard real-time y soft real-time systems?",
+    "opciones": ["A) No hay diferencia", "B) Hard: deadlines críticos, Soft: deadlines deseables", "C) Hard es más lento", "D) Soft es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Security Reference Monitor?",
+    "opciones": ["A) Un monitor de seguridad", "B) Componente que implementa políticas de seguridad", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre interrupt y exception handling?",
+    "opciones": ["A) Son sinónimos", "B) Interrupt: eventos externos, Exception: eventos internos", "C) Interrupt es más lento", "D) Exception es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows I/O Manager?",
+    "opciones": ["A) Un gerente de entrada/salida", "B) Componente que gestiona operaciones de E/S", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre page fault y segmentation fault?",
+    "opciones": ["A) Son idénticos", "B) Page fault: página no en memoria, Segmentation fault: acceso ilegal", "C) Page fault es más grave", "D) Segmentation fault es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Configuration Manager?",
+    "opciones": ["A) Un gerente de configuración", "B) Componente que gestiona Plug and Play", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre monolithic y microkernel architecture?",
+    "opciones": ["A) No hay diferencia", "B) Monolithic: servicios en kernel, Microkernel: servicios en user space", "C) Monolithic es más lento", "D) Microkernel es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Power Manager?",
+    "opciones": ["A) Un gerente de energía", "B) Componente que gestiona estados de energía", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre context switch y mode switch?",
+    "opciones": ["A) Son sinónimos", "B) Context switch: cambio de proceso, Mode switch: cambio de privilegio", "C) Context switch es más rápido", "D) Mode switch es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Registry Virtualization?",
+    "opciones": ["A) Virtualizar el registro", "B) Redireccionar escrituras del registro por compatibilidad", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+  
+  {"pregunta": "¿Cuál es la diferencia entre deadlock y livelock?",
+    "opciones": ["A) Son idénticos", "B) Deadlock: bloqueo mutuo, Livelock: procesos activos pero sin progreso", "C) Deadlock es más rápido", "D) Livelock es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Session Manager?",
+    "opciones": ["A) Un gerente de sesiones", "B) Componente que gestiona sesiones de usuario", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre priority inversion y priority inheritance?",
+    "opciones": ["A) No hay diferencia", "B) Inversion: problema de prioridades, Inheritance: solución temporal", "C) Inversion es mejor", "D) Inheritance es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Local Security Authority (LSA)?",
+    "opciones": ["A) Una autoridad local", "B) Componente que gestiona políticas de seguridad local", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre working set y virtual memory?",
+    "opciones": ["A) Son sinónimos", "B) Working set: páginas en RAM, Virtual memory: espacio de direcciones", "C) Working set es más grande", "D) Virtual memory es obsoleta"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Kernel Dispatcher?",
+    "opciones": ["A) Un despachador de kernels", "B) Componente que gestiona scheduling de threads", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre demand paging y prefetching?",
+    "opciones": ["A) No hay diferencia", "B) Demand paging: cargar cuando se necesita, Prefetching: cargar anticipadamente", "C) Demand paging es más rápido", "D) Prefetching es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Executive?",
+    "opciones": ["A) Un ejecutivo", "B) Capa superior del kernel que implementa servicios del SO", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre spinlock y mutex?",
+    "opciones": ["A) Son idénticos", "B) Spinlock: espera activa, Mutex: bloqueo con suspensión", "C) Spinlock es más lento", "D) Mutex es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Hardware Abstraction Layer (HAL)?",
+    "opciones": ["A) Una capa de abstracción", "B) Interfaz entre kernel y hardware específico", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre copy-on-write y copy-on-access?",
+    "opciones": ["A) No hay diferencia", "B) Copy-on-write: copia al escribir, Copy-on-access: copia al acceder", "C) Copy-on-write es más lento", "D) Copy-on-access es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Windows Kernel Mode Driver Framework (KMDF)?",
+    "opciones": ["A) Un marco de drivers", "B) Framework para desarrollo de drivers de kernel", "C) Un juego", "D) Un navegador"],
+    "respuesta_correcta": "B"}
     ]
 
   },
 
-  "Implentacion_Redes":{
-    "nombre":"Implementacion_de_Redes"
+  "Planificacion_Redes":{
+    "nombre":"Planificacion_de_Redes",
+  "Basico":[
+  
+  {"pregunta": "¿Qué es una red informática?",
+    "opciones": ["A) Un programa", "B) Conjunto de dispositivos conectados para compartir recursos", "C) Un cable", "D) Una aplicación"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son los componentes básicos de una red?",
+    "opciones": ["A) Solo cables", "B) Dispositivos, medios de transmisión y protocolos", "C) Solo ordenadores", "D) Solo software"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué significa TCP/IP?",
+    "opciones": ["A) Transfer Control Protocol/Internet Protocol", "B) Transmission Control Protocol/Internet Protocol", "C) Technical Control Protocol/Internet Protocol", "D) Transport Control Protocol/Internet Protocol"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función de un switch?",
+    "opciones": ["A) Amplificar señales", "B) Conectar dispositivos en una LAN", "C) Conectar a internet", "D) Almacenar datos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una dirección IP?",
+    "opciones": ["A) Un nombre de usuario", "B) Identificador único de un dispositivo en la red", "C) Una contraseña", "D) Un programa"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre IPv4 e IPv6?",
+    "opciones": ["A) No hay diferencia", "B) IPv6 tiene más direcciones disponibles", "C) IPv4 es más moderno", "D) IPv6 es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una máscara de subred?",
+    "opciones": ["A) Una máscara física", "B) Define qué parte de la IP es red y cuál es host", "C) Un antivirus", "D) Un programa"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función de un router?",
+    "opciones": ["A) Almacenar archivos", "B) Conectar diferentes redes", "C) Acelerar internet", "D) Mostrar páginas web"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es DHCP?",
+    "opciones": ["A) Dynamic Host Configuration Protocol", "B) Direct Host Configuration Protocol", "C) Dynamic Hardware Configuration Protocol", "D) Direct Hardware Configuration Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la función de DNS?",
+    "opciones": ["A) Acelerar internet", "B) Traducir nombres de dominio a direcciones IP", "C) Almacenar archivos", "D) Enviar emails"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una LAN?",
+    "opciones": ["A) Large Area Network", "B) Local Area Network", "C) Long Area Network", "D) Limited Area Network"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre hub y switch?",
+    "opciones": ["A) No hay diferencia", "B) Switch es más inteligente y eficiente", "C) Hub es más moderno", "D) Switch es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un firewall?",
+    "opciones": ["A) Un muro de fuego", "B) Sistema de seguridad que controla tráfico de red", "C) Un programa de música", "D) Un navegador"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuáles son los tipos de topología de red?",
+    "opciones": ["A) Solo estrella", "B) Estrella, bus, anillo, malla", "C) Solo bus", "D) Solo anillo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el modelo OSI?",
+    "opciones": ["A) Un sistema operativo", "B) Modelo de referencia de 7 capas para redes", "C) Un protocolo", "D) Un programa"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la función del protocolo HTTP?",
+    "opciones": ["A) Transferir archivos", "B) Transferir páginas web", "C) Enviar emails", "D) Conectar impresoras"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es una VLAN?",
+    "opciones": ["A) Very Large Area Network", "B) Virtual Local Area Network", "C) Variable Local Area Network", "D) Visible Local Area Network"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre cable UTP y STP?",
+    "opciones": ["A) No hay diferencia", "B) STP tiene blindaje adicional", "C) UTP es más caro", "D) STP es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo FTP?",
+    "opciones": ["A) File Transfer Protocol", "B) Fast Transfer Protocol", "C) Full Transfer Protocol", "D) Free Transfer Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la función de un access point?",
+    "opciones": ["A) Acelerar internet", "B) Proporcionar acceso inalámbrico", "C) Almacenar archivos", "D) Mostrar páginas web"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es NAT?",
+    "opciones": ["A) Network Address Translation", "B) Network Access Translation", "C) Network Area Translation", "D) Network Application Translation"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre WAN y MAN?",
+    "opciones": ["A) No hay diferencia", "B) WAN: área amplia, MAN: área metropolitana", "C) WAN es más pequeña", "D) MAN es más rápida"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo SMTP?",
+    "opciones": ["A) Simple Mail Transfer Protocol", "B) Secure Mail Transfer Protocol", "C) Standard Mail Transfer Protocol", "D) Special Mail Transfer Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la función de un gateway?",
+    "opciones": ["A) Abrir puertas", "B) Conectar redes con diferentes protocolos", "C) Acelerar internet", "D) Almacenar archivos"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es la latencia en redes?",
+    "opciones": ["A) Velocidad de datos", "B) Tiempo de retardo en la transmisión", "C) Cantidad de datos", "D) Calidad de señal"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre ancho de banda y throughput?",
+    "opciones": ["A) Son sinónimos", "B) Ancho de banda: capacidad teórica, Throughput: rendimiento real", "C) Throughput es más grande", "D) Ancho de banda es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es SNMP?",
+    "opciones": ["A) Simple Network Management Protocol", "B) Secure Network Management Protocol", "C) Standard Network Management Protocol", "D) Special Network Management Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la función de ARP?",
+    "opciones": ["A) Acelerar redes", "B) Traducir direcciones IP a MAC", "C) Almacenar archivos", "D) Mostrar páginas web"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es un puerto en redes?",
+    "opciones": ["A) Una conexión física", "B) Punto de acceso lógico para aplicaciones", "C) Un cable", "D) Un programa"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre UDP y TCP?",
+    "opciones": ["A) No hay diferencia", "B) TCP es confiable, UDP es más rápido", "C) UDP es más seguro", "D) TCP es más simple"],
+    "respuesta_correcta": "B"}
+    ],
+
+  "Intermedio":[
+      
+  {"pregunta": "¿Cuál es la diferencia entre routing estático y dinámico?",
+    "opciones": ["A) No hay diferencia", "B) Estático: configuración manual, Dinámico: automático con protocolos", "C) Estático es más rápido", "D) Dinámico es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es OSPF?",
+    "opciones": ["A) Open Shortest Path First", "B) Open Standard Path First", "C) Open Simple Path First", "D) Open Secure Path First"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre CSMA/CD y CSMA/CA?",
+    "opciones": ["A) Son idénticos", "B) CD: detección de colisiones, CA: prevención de colisiones", "C) CD es más moderno", "D) CA es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el Spanning Tree Protocol (STP)?",
+    "opciones": ["A) Protocolo de árboles", "B) Previene bucles en redes con switches", "C) Protocolo de routing", "D) Protocolo de seguridad"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre BGP y OSPF?",
+    "opciones": ["A) No hay diferencia", "B) BGP: entre AS, OSPF: dentro de AS", "C) BGP es más lento", "D) OSPF es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es Quality of Service (QoS)?",
+    "opciones": ["A) Calidad de servicio al cliente", "B) Gestión de prioridades de tráfico de red", "C) Velocidad de red", "D) Seguridad de red"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre full-duplex y half-duplex?",
+    "opciones": ["A) Son sinónimos", "B) Full-duplex: bidireccional simultáneo, Half-duplex: alternado", "C) Full-duplex es más lento", "D) Half-duplex es más moderno"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es MPLS?",
+    "opciones": ["A) Multi-Protocol Label Switching", "B) Multi-Path Label Switching", "C) Multi-Port Label Switching", "D) Multi-Point Label Switching"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre ACL estándar y extendida?",
+    "opciones": ["A) No hay diferencia", "B) Estándar: solo IP origen, Extendida: múltiples criterios", "C) Estándar es más compleja", "D) Extendida es más rápida"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es VRRP?",
+    "opciones": ["A) Virtual Router Redundancy Protocol", "B) Virtual Route Redundancy Protocol", "C) Variable Router Redundancy Protocol", "D) Visible Router Redundancy Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre RADIUS y TACACS+?",
+    "opciones": ["A) Son idénticos", "B) RADIUS: AAA combinado, TACACS+: AAA separado", "C) RADIUS es más moderno", "D) TACACS+ es más simple"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo RIP?",
+    "opciones": ["A) Routing Information Protocol", "B) Router Information Protocol", "C) Route Information Protocol", "D) Rapid Information Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre unicast, multicast y broadcast?",
+    "opciones": ["A) Son sinónimos", "B) Unicast: uno a uno, Multicast: uno a grupo, Broadcast: uno a todos", "C) Unicast es más lento", "D) Broadcast es más seguro"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es HSRP?",
+    "opciones": ["A) Hot Standby Router Protocol", "B) High Speed Router Protocol", "C) Hot Standby Routing Protocol", "D) High Standby Router Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre switch de capa 2 y capa 3?",
+    "opciones": ["A) No hay diferencia", "B) Capa 2: switching, Capa 3: switching + routing", "C) Capa 2 es más avanzada", "D) Capa 3 es más simple"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo EIGRP?",
+    "opciones": ["A) Enhanced Interior Gateway Routing Protocol", "B) Extended Interior Gateway Routing Protocol", "C) Efficient Interior Gateway Routing Protocol", "D) Enhanced Internal Gateway Routing Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre VPN site-to-site y remote access?",
+    "opciones": ["A) Son idénticas", "B) Site-to-site: conecta redes, Remote access: conecta usuarios", "C) Site-to-site es más lenta", "D) Remote access es más segura"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo LACP?",
+    "opciones": ["A) Link Aggregation Control Protocol", "B) Local Area Control Protocol", "C) Load Aggregation Control Protocol", "D) Line Aggregation Control Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre IPv4 private y public addresses?",
+    "opciones": ["A) No hay diferencia", "B) Private: uso interno, Public: enrutables en internet", "C) Private es más rápida", "D) Public es más segura"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo ICMP?",
+    "opciones": ["A) Internet Control Message Protocol", "B) Internet Connection Message Protocol", "C) Internal Control Message Protocol", "D) Internet Communication Message Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre VLSM y CIDR?",
+    "opciones": ["A) Son sinónimos", "B) VLSM: subnetting variable, CIDR: notación de prefijo", "C) VLSM es más moderno", "D) CIDR es más complejo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es Port Security en switches?",
+    "opciones": ["A) Seguridad de puertos físicos", "B) Limitar dispositivos por puerto switch", "C) Proteger cables", "D) Cifrar tráfico"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre IDS e IPS?",
+    "opciones": ["A) No hay diferencia", "B) IDS: detecta, IPS: detecta y previene", "C) IDS es más rápido", "D) IPS es más simple"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo LLDP?",
+    "opciones": ["A) Link Layer Discovery Protocol", "B) Local Link Discovery Protocol", "C) Line Layer Discovery Protocol", "D) Load Link Discovery Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre WEP, WPA y WPA2?",
+    "opciones": ["A) Son idénticos", "B) Evolución de seguridad WiFi: WEP < WPA < WPA2", "C) WEP es más seguro", "D) WPA es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo CDP?",
+    "opciones": ["A) Cisco Discovery Protocol", "B) Common Discovery Protocol", "C) Connection Discovery Protocol", "D) Control Discovery Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre load balancing y failover?",
+    "opciones": ["A) Son sinónimos", "B) Load balancing: distribuye carga, Failover: respaldo automático", "C) Load balancing es más lento", "D) Failover es más complejo"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es DHCP Snooping?",
+    "opciones": ["A) Espiar DHCP", "B) Seguridad que previene servidores DHCP no autorizados", "C) Acelerar DHCP", "D) Configurar DHCP"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre trunking y access ports?",
+    "opciones": ["A) No hay diferencia", "B) Trunk: múltiples VLANs, Access: una VLAN", "C) Trunk es más lento", "D) Access es más seguro"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo NTP?",
+    "opciones": ["A) Network Time Protocol", "B) Network Transfer Protocol", "C) Network Transport Protocol", "D) Network Timing Protocol"],
+    "respuesta_correcta": "A"}
+    ],
+
+  "Avanzado":[
+      
+  {"pregunta": "¿Cuál es la diferencia entre MPLS TE y MPLS VPN?",
+    "opciones": ["A) No hay diferencia", "B) TE: Traffic Engineering, VPN: Virtual Private Networks", "C) TE es más lento", "D) VPN es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo IS-IS?",
+    "opciones": ["A) Intermediate System to Intermediate System", "B) Internal System to Internal System", "C) Internet System to Internet System", "D) Integrated System to Integrated System"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre RSVP-TE y LDP en MPLS?",
+    "opciones": ["A) Son idénticos", "B) RSVP-TE: traffic engineering, LDP: distribución básica", "C) RSVP-TE es más simple", "D) LDP es más avanzado"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es BGP Route Reflector?",
+    "opciones": ["A) Un espejo de rutas", "B) Solución a la limitación de iBGP full mesh", "C) Un protocolo nuevo", "D) Un tipo de switch"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre OSPF Areas y BGP AS?",
+    "opciones": ["A) Son sinónimos", "B) OSPF Areas: dominio OSPF, BGP AS: dominio administrativo", "C) OSPF Areas es más grande", "D) BGP AS es más rápido"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es SDN (Software Defined Networking)?",
+    "opciones": ["A) Software de red", "B) Separación de plano de control y datos", "C) Red de software", "D) Definición de software"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre OpenFlow y NetConf?",
+    "opciones": ["A) No hay diferencia", "B) OpenFlow: control de flujos, NetConf: configuración de red", "C) OpenFlow es más lento", "D) NetConf es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es Network Function Virtualization (NFV)?",
+    "opciones": ["A) Virtualizar funciones", "B) Implementar funciones de red como software", "C) Funciones virtuales", "D) Redes virtualizadas"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre VXLAN y NVGRE?",
+    "opciones": ["A) Son idénticos", "B) VXLAN: overlay de VMware, NVGRE: overlay de Microsoft", "C) VXLAN es más lento", "D) NVGRE es más simple"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es EVPN (Ethernet VPN)?",
+    "opciones": ["A) VPN de Ethernet", "B) Extensión de VPN para servicios Ethernet", "C) Red privada virtual", "D) Protocolo de enrutamiento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre TRILL y SPB?",
+    "opciones": ["A) No hay diferencia", "B) TRILL: IETF standard, SPB: IEEE standard", "C) TRILL es más moderno", "D) SPB es más rápido"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo LISP?",
+    "opciones": ["A) Locator/ID Separation Protocol", "B) Link Information Separation Protocol", "C) Location Information System Protocol", "D) Local Internet Service Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre ECMP y UCMP?",
+    "opciones": ["A) Son sinónimos", "B) ECMP: equal cost, UCMP: unequal cost multipath", "C) ECMP es más complejo", "D) UCMP es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es Segment Routing?",
+    "opciones": ["A) Enrutamiento de segmentos", "B) Paradigma de enrutamiento basado en source routing", "C) Protocolo de seguridad", "D) Tipo de switch"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre PCEP y NETCONF?",
+    "opciones": ["A) No hay diferencia", "B) PCEP: Path Computation Element, NETCONF: configuración", "C) PCEP es más simple", "D) NETCONF es más rápido"],
+    "respuesta_correcta": "B"},
+    
+  {"pregunta": "¿Qué es YANG en el contexto de redes?",
+    "opciones": ["A) Un protocolo", "B) Lenguaje de modelado de datos para NETCONF", "C) Un tipo de switch", "D) Una topología"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre DWDM y CWDM?",
+    "opciones": ["A) Son idénticos", "B) DWDM: dense wavelength, CWDM: coarse wavelength", "C) DWDM es más simple", "D) CWDM es más avanzado"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo RSVP?",
+    "opciones": ["A) Resource Reservation Protocol", "B) Route Service Protocol", "C) Rapid Service Protocol", "D) Remote Service Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre ITU-T G.8032 y IEEE 802.1D?",
+    "opciones": ["A) No hay diferencia", "B) G.8032: Ethernet ring protection, 802.1D: spanning tree", "C) G.8032 es más lento", "D) 802.1D es más moderno"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es OAM en redes?",
+    "opciones": ["A) Operations, Administration, and Maintenance", "B) Optical Access Management", "C) Operational Area Management", "D) Overlay Access Management"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre Y.1731 y RFC 2544?",
+    "opciones": ["A) Son sinónimos", "B) Y.1731: OAM Ethernet, RFC 2544: benchmarking", "C) Y.1731 es más simple", "D) RFC 2544 es obsoleto"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es TWAMP?",
+    "opciones": ["A) Two-Way Active Measurement Protocol", "B) Transport Wide Area Measurement Protocol", "C) Time Wide Area Management Protocol", "D) Two-Way Application Management Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre MPLS-TP y MPLS?",
+    "opciones": ["A) No hay diferencia", "B) MPLS-TP: transport profile, más determinista", "C) MPLS-TP es más lento", "D) MPLS es más avanzado"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo BFD?",
+    "opciones": ["A) Bidirectional Forwarding Detection", "B) Border Gateway Detection", "C) Broadcast Forwarding Detection", "D) Binary Format Detection"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre VPLS y L2VPN?",
+    "opciones": ["A) Son idénticos", "B) VPLS: multipoint-to-multipoint, L2VPN: point-to-point", "C) VPLS es más simple", "D) L2VPN es más avanzado"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es Intent-Based Networking (IBN)?",
+    "opciones": ["A) Red basada en intenciones", "B) Red que traduce objetivos de negocio en políticas", "C) Red inteligente", "D) Red de intención"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Cuál es la diferencia entre NETCONF y RESTCONF?",
+    "opciones": ["A) No hay diferencia", "B) NETCONF: XML sobre SSH, RESTCONF: JSON/XML sobre HTTP", "C) NETCONF es más moderno", "D) RESTCONF es más lento"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es el protocolo PCEP?",
+    "opciones": ["A) Path Computation Element Protocol", "B) Packet Control Element Protocol", "C) Path Control Element Protocol", "D) Packet Computation Element Protocol"],
+    "respuesta_correcta": "A"},
+
+  {"pregunta": "¿Cuál es la diferencia entre SR-MPLS y SRv6?",
+    "opciones": ["A) Son sinónimos", "B) SR-MPLS: labels MPLS, SRv6: IPv6 headers", "C) SR-MPLS es más moderno", "D) SRv6 es más simple"],
+    "respuesta_correcta": "B"},
+
+  {"pregunta": "¿Qué es Network Slicing en 5G?",
+    "opciones": ["A) Cortar la red", "B) Crear redes virtuales con características específicas", "C) Dividir físicamente la red", "D) Segmentar usuarios"],
+    "respuesta_correcta": "B"
+  }
+    ]
+
   }
 
-  
  }
 }
