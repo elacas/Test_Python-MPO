@@ -487,13 +487,13 @@
              "opciones": ["A) Power On Self Test", "B) Program On Self Test", "C) Process On Self Test", "D) Print On Self Test"],
              "respuesta_correcta": "A"},
   
-             {"pregunta": "¿Cuál es la función del disipador de calor?",
-             "opciones": ["A) Generar calor", "B) Eliminar el calor de los componentes", "C) Procesar datos", "D) Almacenar información"],
-             "respuesta_correcta": "B"},
+    {"pregunta": "¿Cuál es la función del disipador de calor?",
+     "opciones": ["A) Generar calor", "B) Eliminar el calor de los componentes", "C) Procesar datos", "D) Almacenar información"],
+     "respuesta_correcta": "B"},
   
-             {"pregunta": "¿Qué es un jumper?",
-             "opciones": ["A) Un cable largo", "B) Un pequeño conector para configurar hardware", "C) Un tipo de memoria", "D) Un procesador"],
-             "respuesta_correcta": "B"}
+    {"pregunta": "¿Qué es un jumper?",
+      "opciones": ["A) Un cable largo", "B) Un pequeño conector para configurar hardware", "C) Un tipo de memoria", "D) Un procesador"],
+      "respuesta_correcta": "B"}
     ],
 
         "Intermedio":[
@@ -805,6 +805,486 @@
   }
 
     ]
-    }
+    },
+
+    "MOP-Python":{
+      "nombre": "MOP_Python",
+      "basico":[
+  {
+    "pregunta": "¿Cuál es la extensión de archivo estándar para scripts de Python?",
+    "opciones": ["A) .python", "B) .py", "C) .pt", "D) .script"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función se utiliza para mostrar texto en pantalla?",
+    "opciones": ["A) show()", "B) display()", "C) print()", "D) output()"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la sintaxis correcta para comentarios de una línea en Python?",
+    "opciones": ["A) // comentario", "B) /* comentario */", "C) # comentario", "D) -- comentario"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué función se utiliza para leer entrada del usuario?",
+    "opciones": ["A) read()", "B) input()", "C) get()", "D) scan()"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de 10 // 3 en Python?",
+    "opciones": ["A) 3.33", "B) 3", "C) 4", "D) 3.0"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué tipo de dato es True en Python?",
+    "opciones": ["A) String", "B) Integer", "C) Boolean", "D) Float"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la sintaxis correcta para crear una lista vacía?",
+    "opciones": ["A) lista = {}", "B) lista = []", "C) lista = ()", "D) lista = <>"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué operador se utiliza para concatenar strings?",
+    "opciones": ["A) &", "B) +", "C) *", "D) ."],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la función para obtener la longitud de una lista?",
+    "opciones": ["A) size()", "B) length()", "C) len()", "D) count()"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué palabra clave se utiliza para definir una función?",
+    "opciones": ["A) function", "B) def", "C) define", "D) func"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la indentación estándar en Python?",
+    "opciones": ["A) 2 espacios", "B) 4 espacios", "C) 8 espacios", "D) 1 tab"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué estructura de control se utiliza para repetir código?",
+    "opciones": ["A) if", "B) while", "C) switch", "D) case"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la forma correcta de acceder al primer elemento de una lista?",
+    "opciones": ["A) lista[1]", "B) lista[0]", "C) lista.first()", "D) lista.get(0)"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función convierte un string a entero?",
+    "opciones": ["A) str()", "B) int()", "C) float()", "D) convert()"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la palabra clave para crear una condición?",
+    "opciones": ["A) if", "B) condition", "C) check", "D) when"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué símbolo se utiliza para crear un diccionario?",
+    "opciones": ["A) []", "B) ()", "C) {}", "D) <>"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de 'Hola' * 3?",
+    "opciones": ["A) HolaHolaHola", "B) Hola3", "C) Error", "D) Hola Hola Hola"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué operador se utiliza para comparar igualdad?",
+    "opciones": ["A) =", "B) ==", "C) ===", "D) eq"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la forma correcta de crear una tupla?",
+    "opciones": ["A) tupla = []", "B) tupla = {}", "C) tupla = ()", "D) tupla = <>"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué palabra clave se utiliza para salir de un bucle?",
+    "opciones": ["A) exit", "B) break", "C) stop", "D) end"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la función para obtener el tipo de una variable?",
+    "opciones": ["A) typeof()", "B) type()", "C) gettype()", "D) class()"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué método se utiliza para añadir un elemento al final de una lista?",
+    "opciones": ["A) add()", "B) insert()", "C) append()", "D) push()"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es la palabra clave para manejar excepciones?",
+    "opciones": ["A) catch", "B) except", "C) error", "D) handle"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué función se utiliza para ordenar una lista?",
+    "opciones": ["A) order()", "B) sort()", "C) arrange()", "D) organize()"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es el operador para potencia en Python?",
+    "opciones": ["A) ^", "B) **", "C) pow", "D) *"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué palabra clave se utiliza para importar módulos?",
+    "opciones": ["A) include", "B) require", "C) import", "D) load"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el método para eliminar un elemento de una lista por índice?",
+    "opciones": ["A) remove()", "B) delete()", "C) pop()", "D) clear()"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué función devuelve un rango de números?",
+    "opciones": ["A) range()", "B) sequence()", "C) numbers()", "D) count()"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es la palabra clave para continuar con la siguiente iteración de un bucle?",
+    "opciones": ["A) next", "B) continue", "C) skip", "D) pass"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué método convierte todos los caracteres de un string a minúsculas?",
+    "opciones": ["A) lowercase()", "B) lower()", "C) tolower()", "D) small()"],
+    "respuesta_correcta": "B"
+  }
+],
+
+"Intermedio": [
+  {
+    "pregunta": "¿Cuál es la diferencia entre '==' y 'is' en Python?",
+    "opciones": ["A) No hay diferencia", "B) '==' compara valores, 'is' compara identidad", "C) 'is' es más rápido", "D) '==' es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es una list comprehension?",
+    "opciones": ["A) Un tipo de lista", "B) Una forma concisa de crear listas", "C) Una función para listas", "D) Un método de lista"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'append()' y 'extend()' en listas?",
+    "opciones": ["A) No hay diferencia", "B) append() añade un elemento, extend() añade múltiples", "C) extend() es más rápido", "D) append() es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el operador '*' antes de una lista en una función?",
+    "opciones": ["A) Multiplica la lista", "B) Desempaqueta la lista como argumentos", "C) Crea una copia", "D) Ordena la lista"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre parámetros por defecto mutables e inmutables?",
+    "opciones": ["A) No hay diferencia", "B) Los mutables pueden causar efectos secundarios", "C) Los inmutables son más rápidos", "D) Los mutables son obsoletos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un generador en Python?",
+    "opciones": ["A) Una función especial", "B) Un objeto que produce valores bajo demanda", "C) Un tipo de lista", "D) Un módulo"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'global' y 'nonlocal'?",
+    "opciones": ["A) No hay diferencia", "B) global: variable global, nonlocal: variable de función externa", "C) nonlocal es más rápido", "D) global es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el método 'join()' en strings?",
+    "opciones": ["A) Separa strings", "B) Une elementos de una secuencia con un separador", "C) Duplica strings", "D) Busca en strings"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre '__str__' y '__repr__'?",
+    "opciones": ["A) No hay diferencia", "B) __str__ para usuarios, __repr__ para desarrolladores", "C) __repr__ es más rápido", "D) __str__ es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el 'slicing' en Python?",
+    "opciones": ["A) Cortar código", "B) Extraer partes de secuencias", "C) Dividir funciones", "D) Separar módulos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'deepcopy' y 'copy'?",
+    "opciones": ["A) No hay diferencia", "B) deepcopy copia recursivamente, copy solo la superficie", "C) copy es más rápido", "D) deepcopy es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace la palabra clave 'yield'?",
+    "opciones": ["A) Detiene la función", "B) Convierte una función en generador", "C) Devuelve un valor", "D) Pausa la ejecución"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'remove()' y 'pop()' en listas?",
+    "opciones": ["A) No hay diferencia", "B) remove() por valor, pop() por índice", "C) pop() es más rápido", "D) remove() es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un decorator en Python?",
+    "opciones": ["A) Una función especial", "B) Una función que modifica otra función", "C) Un tipo de clase", "D) Un módulo"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'sort()' y 'sorted()'?",
+    "opciones": ["A) No hay diferencia", "B) sort() modifica la lista, sorted() devuelve nueva lista", "C) sorted() es más rápido", "D) sort() es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el método 'enumerate()'?",
+    "opciones": ["A) Cuenta elementos", "B) Devuelve índice y valor de cada elemento", "C) Ordena elementos", "D) Duplica elementos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'classmethod' y 'staticmethod'?",
+    "opciones": ["A) No hay diferencia", "B) classmethod recibe cls, staticmethod no recibe self ni cls", "C) staticmethod es más rápido", "D) classmethod es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la herencia múltiple en Python?",
+    "opciones": ["A) Una clase con múltiples métodos", "B) Una clase que hereda de múltiples clases padre", "C) Múltiples objetos de una clase", "D) Una clase con múltiples atributos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'map()' y list comprehension?",
+    "opciones": ["A) No hay diferencia", "B) map() devuelve iterador, list comprehension devuelve lista", "C) map() es más lento", "D) List comprehension es obsoleta"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace la función 'zip()'?",
+    "opciones": ["A) Comprime archivos", "B) Combina elementos de múltiples iterables", "C) Ordena elementos", "D) Cuenta elementos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'break' y 'continue'?",
+    "opciones": ["A) No hay diferencia", "B) break sale del bucle, continue salta a la siguiente iteración", "C) continue es más rápido", "D) break es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el 'Method Resolution Order' (MRO)?",
+    "opciones": ["A) Orden de métodos en clase", "B) Orden de búsqueda de métodos en herencia", "C) Orden de ejecución", "D) Orden de importación"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'finally' y 'else' en try-except?",
+    "opciones": ["A) No hay diferencia", "B) finally siempre se ejecuta, else solo si no hay excepción", "C) else es más rápido", "D) finally es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el método '__init__'?",
+    "opciones": ["A) Destruye objetos", "B) Inicializa objetos recién creados", "C) Crea clases", "D) Importa módulos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'args' y 'kwargs'?",
+    "opciones": ["A) No hay diferencia", "B) args para argumentos posicionales, kwargs para argumentos con nombre", "C) kwargs es más rápido", "D) args es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un context manager en Python?",
+    "opciones": ["A) Un tipo de función", "B) Un objeto que define métodos para usar con 'with'", "C) Un tipo de clase", "D) Un módulo"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'filter()' y list comprehension con condición?",
+    "opciones": ["A) No hay diferencia", "B) filter() devuelve iterador, list comprehension devuelve lista", "C) filter() es más lento", "D) List comprehension es obsoleta"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace la función 'all()' en Python?",
+    "opciones": ["A) Devuelve todos los elementos", "B) Devuelve True si todos los elementos son True", "C) Cuenta elementos", "D) Ordena elementos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'property' y atributo normal?",
+    "opciones": ["A) No hay diferencia", "B) property permite controlar acceso con métodos", "C) Property es más rápido", "D) Atributo normal es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el 'duck typing' en Python?",
+    "opciones": ["A) Un tipo de dato", "B) Si camina como pato y habla como pato, es un pato", "C) Un método de clase", "D) Una función especial"],
+    "respuesta_correcta": "B"
+  }
+],
+
+"Avanzado": [
+  {
+    "pregunta": "¿Qué es el Global Interpreter Lock (GIL) en Python?",
+    "opciones": ["A) Un tipo de variable", "B) Un mecanismo que permite solo un hilo ejecutar código Python a la vez", "C) Una función de seguridad", "D) Un tipo de excepción"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre '__new__' y '__init__'?",
+    "opciones": ["A) No hay diferencia", "B) __new__ crea la instancia, __init__ la inicializa", "C) __init__ es más rápido", "D) __new__ es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es una metaclase en Python?",
+    "opciones": ["A) Una clase especial", "B) Una clase cuyas instancias son clases", "C) Un tipo de función", "D) Un módulo"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'weakref' y referencias normales?",
+    "opciones": ["A) No hay diferencia", "B) weakref no impide la recolección de basura", "C) weakref es más rápido", "D) Referencias normales son obsoletas"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el método '__slots__' en una clase?",
+    "opciones": ["A) Crea métodos", "B) Restringe atributos y optimiza memoria", "C) Define herencia", "D) Importa módulos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'threading' y 'multiprocessing'?",
+    "opciones": ["A) No hay diferencia", "B) threading: hilos, multiprocessing: procesos separados", "C) threading es más rápido", "D) multiprocessing es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es un descriptor en Python?",
+    "opciones": ["A) Una función especial", "B) Un objeto que define __get__, __set__, o __delete__", "C) Un tipo de clase", "D) Un módulo"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'asyncio' y 'threading'?",
+    "opciones": ["A) No hay diferencia", "B) asyncio: programación asíncrona, threading: hilos", "C) asyncio es más lento", "D) threading es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el decorador '@functools.lru_cache'?",
+    "opciones": ["A) Ordena funciones", "B) Cachea resultados de función con LRU", "C) Acelera funciones", "D) Duplica funciones"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'pickle' y 'json'?",
+    "opciones": ["A) No hay diferencia", "B) pickle: serialización Python, json: formato universal", "C) json es más rápido", "D) pickle es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el 'monkey patching' en Python?",
+    "opciones": ["A) Depurar código", "B) Modificar dinámicamente clases/módulos en tiempo de ejecución", "C) Optimizar código", "D) Documentar código"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'coroutine' y 'generator'?",
+    "opciones": ["A) No hay diferencia", "B) coroutine: async/await, generator: yield", "C) generator es más rápido", "D) coroutine es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el método '__enter__' y '__exit__'?",
+    "opciones": ["A) Controla importaciones", "B) Implementa context manager protocol", "C) Maneja excepciones", "D) Crea objetos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'itertools.chain' y concatenación normal?",
+    "opciones": ["A) No hay diferencia", "B) chain es lazy y más eficiente en memoria", "C) Concatenación normal es más rápida", "D) chain es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el 'Abstract Base Class' (ABC) en Python?",
+    "opciones": ["A) Una clase normal", "B) Una clase que define interfaz sin implementación", "C) Un tipo de función", "D) Un módulo"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'sys.path' y 'PYTHONPATH'?",
+    "opciones": ["A) No hay diferencia", "B) sys.path: runtime, PYTHONPATH: variable de entorno", "C) sys.path es más rápido", "D) PYTHONPATH es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el método '__call__' en una clase?",
+    "opciones": ["A) Llama funciones", "B) Hace que la instancia sea callable como función", "C) Crea objetos", "D) Destruye objetos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'is' y '==' para objetos singleton?",
+    "opciones": ["A) No hay diferencia", "B) is es más rápido para singletons como None, True, False", "C) == es más rápido", "D) is es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el 'namespace' en Python?",
+    "opciones": ["A) Un tipo de variable", "B) Un mapeo de nombres a objetos", "C) Una función especial", "D) Un módulo"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'locals()' y 'globals()'?",
+    "opciones": ["A) No hay diferencia", "B) locals(): variables locales, globals(): variables globales", "C) locals() es más rápido", "D) globals() es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el decorador '@staticmethod' vs '@classmethod'?",
+    "opciones": ["A) Son idénticos", "B) staticmethod: sin self/cls, classmethod: recibe cls", "C) staticmethod es más rápido", "D) classmethod es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'hasattr' y 'getattr'?",
+    "opciones": ["A) No hay diferencia", "B) hasattr: verifica existencia, getattr: obtiene valor", "C) hasattr es más rápido", "D) getattr es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la 'closure' en Python?",
+    "opciones": ["A) Cerrar archivos", "B) Función que captura variables de su entorno", "C) Terminar programa", "D) Cerrar clases"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'exec' y 'eval'?",
+    "opciones": ["A) No hay diferencia", "B) exec: ejecuta código, eval: evalúa expresiones", "C) exec es más rápido", "D) eval es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el método '__getitem__' en una clase?",
+    "opciones": ["A) Obtiene elementos", "B) Permite indexación con corchetes []", "C) Crea listas", "D) Ordena elementos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'shallow copy' y 'deep copy'?",
+    "opciones": ["A) No hay diferencia", "B) shallow: copia referencias, deep: copia recursivamente", "C) shallow es más lento", "D) deep es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es el 'decorator pattern' vs 'decorator syntax'?",
+    "opciones": ["A) Son idénticos", "B) pattern: patrón de diseño, syntax: @decorator", "C) pattern es más rápido", "D) syntax es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre '__dict__' y '__slots__'?",
+    "opciones": ["A) No hay diferencia", "B) __dict__: diccionario dinámico, __slots__: atributos fijos", "C) __dict__ es más rápido", "D) __slots__ es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué hace el método '__setattr__' vs '__getattribute__'?",
+    "opciones": ["A) Son idénticos", "B) __setattr__: asigna atributos, __getattribute__: intercepta acceso", "C) __setattr__ es más rápido", "D) __getattribute__ es obsoleto"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'memory view' y 'buffer'?",
+    "opciones": ["A) No hay diferencia", "B) memoryview: acceso sin copia, buffer: interfaz de memoria", "C) buffer es más rápido", "D) memoryview es obsoleto"],
+    "respuesta_correcta": "B"
+  }
+
+] 
+  },
+  
+  "Base_de_datos":{
+    "Basico":[
+      
+
+    ],
+    
+    "Intermedio":[
+
+    ],
+
+   "Avanzado": [
+
+   ]
+  }
+
+  
  }
 }
