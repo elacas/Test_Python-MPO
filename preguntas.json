@@ -3,7 +3,7 @@
 
   "Lenguaje_de_marcas":{
     "nombre": "Lenguaje_de_Marcas",
-    "basico":[
+    "Basico":[
 
   {"pregunta": "¿Qué significa HTML?",
    "opciones": ["A) High Tech Markup Language", "B) HyperText Markup Language", "C) Home Tool Markup Language", "D) Hyper Transfer Markup Language"],
@@ -380,7 +380,7 @@
   
   "Fundamentos_de_Hardware":{
   "nombre": "Fundamentos_de_Hardware",
-  "básico": [
+  "Basico": [
   
   {"pregunta": "¿Cuál es la función principal de la CPU?",
    "opciones": ["A) Almacenar datos", "B) Procesar instrucciones", "C) Mostrar imágenes", "D) Conectar a internet"],
@@ -749,9 +749,9 @@
    ]
   },
 
-    "MOP-Python":{
-      "nombre": "MOP_Python",
-      "basico":[
+  "MOP-Python":{
+  "nombre": "MOP_Python",
+  "Basico":[
   {"pregunta": "¿Cuál es la extensión de archivo estándar para scripts de Python?",
     "opciones": ["A) .python", "B) .py", "C) .pt", "D) .script"],
     "respuesta_correcta": "B"},

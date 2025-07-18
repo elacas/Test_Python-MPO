@@ -1,6 +1,6 @@
 '''
-import json (para que el programa "lea y concierta a Python el archivo json)
-import random (importar el "progama para randomizar preguntas)
+import json (para que el python "lea y convierta el archivo json)
+import random (importar la funcion para randomizar preguntas")
 
 '''
 import json
@@ -14,8 +14,9 @@ def cargar_preguntas():
       return json.load(archivo)
 
 '''
-Definir asignaturas diferentes: print= se muestran las variables disponibles, con input se le dice a la persona que escoja asignatura o volver al menu
-'''     
+Definir asignaturas diferentes: print= se muestran las variables disponibles, con input se le dice a la persona que escoja asignatura/dificultad o volver al menu. If: si se cumple algo -> haz esto
+                                              Elif: sino se cumple lo anterior haz esto
+                                              Else: si todo lo demás falla haz esto'''     
 def elegir_asignatura():
 
    print("\nEscoge asignatura")
@@ -48,6 +49,42 @@ def elegir_asignatura():
      else:
        print("Porfavor, introduzca un umero válido")
        return elegir_asignatura()
+     
+def elegir_dificultad():
+   while True:
+      opcion = input("Escoja dificultad")
+      if opcion == "1":
+         return "Basico"
+      elif opcion == "2":
+         return "Intermedio"
+      elif opcion == "3":
+         return "Avanzado"
+      elif opcion == "4":
+         return elegir_asignatura
+      else:
+         print("Seleccione una opción válida")
+'''
+variable datos para acceder a las preguntas
+variable asignatura/dificultad para llamar a las funciones anteriores 
+'''
+'''
+variable preguntas esta formada por la variable "datos" que seria el documento json "pasado"a Python, dentro del cual se busca la asignatura y el nivel elegido por el usuario.
+Random.shuffle funcion para randomizar preguntas
+'''
+def hacer_cuestionario():
+   
+     datos=cargar_preguntas
+
+     asignatura=elegir_asignatura
+   
+     dificultad=elegir_dificultad
+
+     preguntas=datos[asignatura][dificultad]
+
+     random.shuffle[preguntas]
+
+     preguntas_test=preguntas[:15]
+
 
 
 def main():
