@@ -7,7 +7,7 @@ import json
 import random
 
 '''
-Definir cargar peguntas con (with) abrir el json, R read/lectura, "diccionario" utf8 (tiene en cuenta los simbolos como la ñ), se abre como/as archivo (devuelve el json leido como archivo)
+Definir cargar peguntas con/with abrir el json, R read/lectura, "diccionario" utf8 (tiene en cuenta los simbolos como la ñ), se abre como/as archivo (devuelve el json leido como archivo)
 '''
 def cargar_preguntas():
    with open ("preguntas.json", "r", encoding="utf-8") as archivo:
@@ -47,7 +47,7 @@ def elegir_asignatura():
      elif opcion == "8":
          return "main"
      else:
-       print("Porfavor, introduzca un umero válido")
+       print("Porfavor, introduzca un número válido")
        return elegir_asignatura()
      
 def elegir_dificultad():
@@ -69,7 +69,7 @@ variable asignatura/dificultad para llamar a las funciones anteriores
 '''
 '''
 variable preguntas esta formada por la variable "datos" que seria el documento json "pasado"a Python, dentro del cual se busca la asignatura y el nivel elegido por el usuario.
-Random.shuffle funcion para randomizar preguntas
+Random.shuffle funcion para randomizar preguntas y el test_preguntas define cuantas preguntas tienes en el cuestionario
 '''
 def hacer_cuestionario():
    
