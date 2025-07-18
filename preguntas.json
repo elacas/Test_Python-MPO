@@ -1124,6 +1124,7 @@
   },
   
   "Base_de_datos":{
+    "nombre": "Bases_Datos",
     "Basico":[
     {"pregunta": "¿Qué significa SQL?",
     "opciones": ["A) Structured Query Language", "B) Simple Query Language", "C) Standard Query Language", "D) System Query Language"],
